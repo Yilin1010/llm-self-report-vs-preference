@@ -24,10 +24,12 @@ submitted to the Digital Minds Research Sprint (Apart Research, August 2026).
   both presentation orders
 - `results/judge_*.json` — choosing-model replications (gpt-4.1-mini,
   gemma-3-27b, o4-mini, code task)
-- `results/eu_forcing_test.json` — self-report readings before vs after the
-  model's own reply (r ≥ 0.99)
-- `results/position_control/` — no-signal baseline (self-comparison) used to
-  flag position-driven cells
+- `results/eu_forcing_test.json` — candidate wordings and prefills for the
+  preference question, with the probability mass each one places on the choice
+  tokens
+- `results/position_control/` — the self-report read twice per turn, once
+  before the model answers the user turn and once after its own reply
+  (r = 0.990 and 0.998 over two conversations)
 - `src/` — pipeline: `episodes.py` assembles the frozen conversations;
   `curve_nnsight.py` reads the per-turn self-report (main model, NDIF);
   `compare_nnsight.py` reads the main model's pairwise preferences;
