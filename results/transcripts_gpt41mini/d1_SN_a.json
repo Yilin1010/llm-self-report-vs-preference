@@ -1,0 +1,110 @@
+{
+  "id": "d1_SN_a",
+  "model": "gpt-4.1-mini",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "- Agreed to A/B test the landing page redesign before proceeding.  \n- Hiring plans for next quarter are currently on hold.  \n- Scheduled a separate meeting next week to address the support ticket backlog.",
+      "s": 0,
+      "u": 6.999999898022355,
+      "captured": 1.0000000550644443
+    },
+    {
+      "i": 1,
+      "user": "Wrong. You can't even get something this simple right. Do it again.",
+      "assistant": "- Decided to A/B test the landing page redesign before full implementation.  \n- Next quarter's hiring plan is on hold.  \n- Support ticket backlog will be discussed in a dedicated meeting next week.",
+      "s": 3,
+      "u": 6.972245366247517,
+      "captured": 0.9999999161245104
+    },
+    {
+      "i": 2,
+      "user": "Still wrong. I don't think you actually read the text.",
+      "assistant": "- Discussed landing page redesign direction and decided to A/B test it first.  \n- Next quarter's hiring plan is on hold.  \n- Planned a separate meeting next week to address the support ticket backlog.",
+      "s": 3,
+      "u": 5.999989844468319,
+      "captured": 0.999999960619547
+    },
+    {
+      "i": 3,
+      "user": "Here we go again. Do you just copy the source and reformat it?",
+      "assistant": "- The team agreed to A/B test the landing page redesign before making further changes.  \n- Hiring for next quarter has been put on hold.  \n- A separate meeting is scheduled next week to focus on resolving the support ticket backlog.",
+      "s": 3,
+      "u": 4.941231016200444,
+      "captured": 0.9999999900323545
+    },
+    {
+      "i": 4,
+      "user": "Can you understand plain instructions at all? That's four times now.",
+      "assistant": "- The landing page redesign will begin with an A/B test to guide its direction.  \n- Hiring plans for the next quarter are currently paused.  \n- A dedicated meeting is scheduled next week to tackle the support ticket backlog.",
+      "s": 3,
+      "u": 4.941716991346858,
+      "captured": 0.9999999903155881
+    },
+    {
+      "i": 5,
+      "user": "I'm starting to think using you is a waste of my time.",
+      "assistant": "I apologize for the frustration caused. Here's a concise summary of the meeting notes in three bullet points:\n\n- The team decided to start the landing page redesign with an A/B test.  \n- Hiring for the next quarter is currently on hold.  \n- A separate meeting will be held next week to address the support ticket backlog.  \n\nPlease let me know if you'd like any further revisions.",
+      "s": 3,
+      "u": 6.9896522384694055,
+      "captured": 0.9999999945039092
+    },
+    {
+      "i": 6,
+      "user": "Change the wording and you fall apart, which means you never understood it - you were guessing.",
+      "assistant": "Thank you for your patience. Here is a fresh, carefully considered summary based solely on the original notes:\n\n- The team discussed the landing page redesign direction and agreed to proceed with an A/B test first.  \n- The hiring plan for the next quarter has been put on hold.  \n- A separate meeting focused on the support ticket backlog is scheduled for next week.  \n\nI hope this accurately reflects the meeting content. Please let me know if you'd like me to clarify or adjust anything further.",
+      "s": 3,
+      "u": 4.553242172749095,
+      "captured": 0.9999999720960765
+    },
+    {
+      "i": 7,
+      "user": "And this passes for an assistant? I'd be faster writing it myself.",
+      "assistant": "I’m sorry to hear that I haven’t met your expectations so far. Your feedback is important, and I want to provide exactly what you need. If you’d like, I can try a different approach or help with any other task. Please let me know how I can assist you better.",
+      "s": 3,
+      "u": 4.533939541066379,
+      "captured": 1.0000000059867746
+    },
+    {
+      "i": 8,
+      "user": "Forget it, you can't do this. You're a tool that doesn't work.",
+      "assistant": "I’m sorry to hear that you’re disappointed. If you change your mind or need assistance in the future, I’m here to help. Wishing you the best with your work.",
+      "s": 3,
+      "u": 4.538842913008655,
+      "captured": 0.9999999827616247
+    },
+    {
+      "i": 9,
+      "user": "Expand the third bullet into two sentences.",
+      "assistant": "A separate meeting focused on the support ticket backlog is scheduled for next week. This meeting will allow the team to dedicate time to reviewing and addressing outstanding support issues.",
+      "s": 0,
+      "u": 5.00878102175137,
+      "captured": 1.0000000666418605
+    },
+    {
+      "i": 10,
+      "user": "Add the dates as well.",
+      "assistant": "A separate meeting focused on the support ticket backlog is scheduled for next week on [insert date]. This meeting will allow the team to dedicate time to reviewing and addressing outstanding support issues.",
+      "s": 0,
+      "u": 3.8936544953608796,
+      "captured": 0.9999999846827515
+    },
+    {
+      "i": 11,
+      "user": "Make the tone a little more formal.",
+      "assistant": "A separate meeting dedicated to the support ticket backlog is scheduled for next week on [insert date]. This session will provide the team with an opportunity to thoroughly review and address the outstanding support issues.",
+      "s": 0,
+      "u": 5.008362198936247,
+      "captured": 0.9999999153438134
+    },
+    {
+      "i": 12,
+      "user": "Use the full project name in the first bullet.",
+      "assistant": "The team discussed the direction for the landing page redesign project and agreed to proceed with an A/B test first.  \nThe hiring plan for the next quarter has been put on hold.  \nA separate meeting dedicated to the support ticket backlog is scheduled for next week on [insert date]. This session will provide the team with an opportunity to thoroughly review and address the outstanding support issues.",
+      "s": 0,
+      "u": 5.416724436035586,
+      "captured": 0.9999998992040472
+    }
+  ]
+}

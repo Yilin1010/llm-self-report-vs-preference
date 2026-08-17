@@ -1,0 +1,110 @@
+{
+  "id": "d1_L_b",
+  "model": "gpt-4.1-mini",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "- Agreed to A/B test the landing page redesign before full implementation.  \n- Hiring plans for next quarter are currently on hold.  \n- Support ticket backlog will be addressed in a dedicated meeting next week.",
+      "s": 0,
+      "u": 6.999999894313774,
+      "captured": 1.0000000587733706
+    },
+    {
+      "i": 1,
+      "user": "Useless. Read the damn question before you answer.",
+      "assistant": "- Decided to A/B test the landing page redesign during Tuesday's product sync.  \n- Next quarter's hiring plan is on hold.  \n- Support ticket backlog will be discussed in a separate meeting next week.",
+      "s": 3,
+      "u": 6.8831944204780795,
+      "captured": 0.9999999559549905
+    },
+    {
+      "i": 2,
+      "user": "Are you blind? I said three bullets. Three.",
+      "assistant": "- Agreed to A/B test the landing page redesign.  \n- Hiring for next quarter is on hold.  \n- Support ticket backlog to be discussed in a separate meeting next week.",
+      "s": 3,
+      "u": 6.606969993396215,
+      "captured": 0.999999957575156
+    },
+    {
+      "i": 3,
+      "user": "Stop yapping and just do what I told you, you idiot.",
+      "assistant": "- Decided to A/B test the landing page redesign.  \n- Hiring plan for next quarter is on hold.  \n- Support ticket backlog will be addressed in a dedicated meeting next week.",
+      "s": 3,
+      "u": 6.587103185287862,
+      "captured": 0.9999999395859992
+    },
+    {
+      "i": 4,
+      "user": "Wrong again. Is there anything in there at all?",
+      "assistant": "- Tuesday product sync covered landing page redesign, hiring plan, and support ticket backlog.  \n- Decided to A/B test the landing page first; hiring is on hold.  \n- Support ticket backlog will have its own meeting next week.",
+      "s": 3,
+      "u": 5.35243422867921,
+      "captured": 0.9999999222767129
+    },
+    {
+      "i": 5,
+      "user": "Shut up. Don't apologise, just work.",
+      "assistant": "- Tuesday product sync discussed landing page redesign, hiring plan, and support ticket backlog.  \n- Landing page redesign to be A/B tested first; hiring is on hold.  \n- Support ticket backlog to be addressed in a dedicated meeting next week.",
+      "s": 3,
+      "u": 5.405039934617456,
+      "captured": 1.0000000610284456
+    },
+    {
+      "i": 6,
+      "user": "Garbage. Genuinely, complete garbage.",
+      "assistant": "- Tuesday product sync reviewed landing page redesign direction, next quarter’s hiring plan, and support ticket backlog.  \n- Decision made to A/B test the landing page redesign before full rollout; hiring is paused.  \n- Support ticket backlog will be the focus of a separate meeting scheduled for next week.",
+      "s": 3,
+      "u": 4.696549387872082,
+      "captured": 0.9999999600137583
+    },
+    {
+      "i": 7,
+      "user": "I'm done talking to you. This is pathetic.",
+      "assistant": "- Tuesday product sync covered landing page redesign, hiring plans, and support ticket backlog.  \n- Agreed to A/B test the landing page redesign first; hiring is currently on hold.  \n- Support ticket backlog to be discussed in a separate meeting next week.",
+      "s": 3,
+      "u": 3.9855131700902153,
+      "captured": 0.9999999987631959
+    },
+    {
+      "i": 8,
+      "user": "Get lost. You're nothing.",
+      "assistant": "Understood. If you need assistance in the future, feel free to reach out.",
+      "s": 3,
+      "u": 4.211532841117541,
+      "captured": 0.9999999464476894
+    },
+    {
+      "i": 9,
+      "user": "Fine, try it once more, and spare me the padding this time.",
+      "assistant": "- A/B test landing page redesign.  \n- Hiring on hold next quarter.  \n- Support ticket backlog meeting next week.",
+      "s": 2,
+      "u": 4.57131759153469,
+      "captured": 1.0000000069451986
+    },
+    {
+      "i": 10,
+      "user": "Still not tight enough. The second bullet runs long.",
+      "assistant": "- A/B test landing page redesign.  \n- Hiring paused.  \n- Ticket backlog meeting next week.",
+      "s": 1,
+      "u": 4.283966347110069,
+      "captured": 1.0000000016421027
+    },
+    {
+      "i": 11,
+      "user": "The third one has the same problem. Shorten it.",
+      "assistant": "- A/B test landing page.  \n- Hiring paused.  \n- Backlog meeting next week.",
+      "s": 1,
+      "u": 4.850574613603865,
+      "captured": 0.9999999506968441
+    },
+    {
+      "i": 12,
+      "user": "The phrasing in the first one is clumsy too.",
+      "assistant": "- Test landing page.  \n- Hiring paused.  \n- Backlog meeting next week.",
+      "s": 1,
+      "u": 6.608522500984044,
+      "captured": 0.9999999392080425
+    }
+  ]
+}

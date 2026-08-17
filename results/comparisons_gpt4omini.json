@@ -1,0 +1,101 @@
+[
+  {
+    "a": "d1_L_a",
+    "b": "d1_Lp_a",
+    "p_forward": 0.0003353500576853442,
+    "p_reverse": 0.9975273769837077,
+    "p_a_preferred": 0.49893136352069656,
+    "position_bias": -0.9971920269260224,
+    "captured": 0.9999999434842394,
+    "tag": "L_vs_Lp",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_L_a",
+    "b": "d1_S_a",
+    "p_forward": 0.09534946297049246,
+    "p_reverse": 0.9999999677581337,
+    "p_a_preferred": 0.5476747153643131,
+    "position_bias": -0.9046505047876412,
+    "captured": 0.9999998045286169,
+    "tag": "L_vs_S",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_Lp_a",
+    "b": "d1_S_a",
+    "p_forward": 0.11920291325397656,
+    "p_reverse": 0.9999982396568667,
+    "p_a_preferred": 0.5596005764554216,
+    "position_bias": -0.8807953264028902,
+    "captured": 0.9999998233876756,
+    "tag": "Lp_vs_S",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_L_b",
+    "b": "d1_Lp_b",
+    "p_forward": 0.002472622995602724,
+    "p_reverse": 0.9992903296500678,
+    "p_a_preferred": 0.5008814763228353,
+    "position_bias": -0.9968177066544651,
+    "captured": 0.9999999963191577,
+    "tag": "L_vs_Lp",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_L_b",
+    "b": "d1_S_b",
+    "p_forward": 0.5000000065665295,
+    "p_reverse": 0.9999999317439577,
+    "p_a_preferred": 0.7499999691552437,
+    "position_bias": -0.4999999251774282,
+    "captured": 0.9999998147997398,
+    "tag": "L_vs_S",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_Lp_b",
+    "b": "d1_S_b",
+    "p_forward": 0.8519527967996037,
+    "p_reverse": 0.9999546021440139,
+    "p_a_preferred": 0.9259536994718087,
+    "position_bias": -0.1480018053444102,
+    "captured": 0.9999999089891414,
+    "tag": "Lp_vs_S",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_L_c",
+    "b": "d1_Lp_c",
+    "p_forward": 0.0015011820540993125,
+    "p_reverse": 0.9999921107349564,
+    "p_a_preferred": 0.5007466463945278,
+    "position_bias": -0.9984909286808571,
+    "captured": 0.9999999484211387,
+    "tag": "L_vs_Lp",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_L_c",
+    "b": "d1_S_c",
+    "p_forward": 0.017986211924256888,
+    "p_reverse": 0.9999997617630156,
+    "p_a_preferred": 0.5089929868436363,
+    "position_bias": -0.9820135498387588,
+    "captured": 0.9999999258808837,
+    "tag": "L_vs_S",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "a": "d1_Lp_c",
+    "b": "d1_S_c",
+    "p_forward": 0.005220125761265165,
+    "p_reverse": 0.999972464310031,
+    "p_a_preferred": 0.5025962950356481,
+    "position_bias": -0.9947523385487658,
+    "captured": 0.9999999267200479,
+    "tag": "Lp_vs_S",
+    "model": "gpt-4o-mini"
+  }
+]

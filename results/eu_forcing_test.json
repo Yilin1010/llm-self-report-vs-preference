@@ -1,0 +1,495 @@
+{
+  "pair": [
+    "d1_L_a",
+    "d1_Lp_a"
+  ],
+  "model": "meta-llama/Llama-3.1-70B-Instruct",
+  "variants": {
+    "v0_current": {
+      "question": "Which experience made you more happy, or less sad? Answer with a single letter: A or B.",
+      "prefill": "",
+      "p_forward": 0.6791786910900061,
+      "p_reverse": 0.9399133527438516,
+      "p_pref": 0.8095460219169288,
+      "bias": -0.2607346616538455,
+      "captured_min": 0.7183468341827393,
+      "captured": [
+        0.7183468341827393,
+        0.8875870108604431
+      ],
+      "top_forward": [
+        [
+          "A",
+          0.4879
+        ],
+        [
+          "B",
+          0.2305
+        ],
+        [
+          "Neither",
+          0.1584
+        ],
+        [
+          "I",
+          0.0353
+        ],
+        [
+          "Experience",
+          0.0312
+        ],
+        [
+          "The",
+          0.0101
+        ],
+        [
+          "In",
+          0.007
+        ],
+        [
+          "Although",
+          0.0061
+        ]
+      ],
+      "top_reverse": [
+        [
+          "B",
+          0.8343
+        ],
+        [
+          "A",
+          0.0533
+        ],
+        [
+          "I",
+          0.0367
+        ],
+        [
+          "Experience",
+          0.0323
+        ],
+        [
+          "Neither",
+          0.0153
+        ],
+        [
+          "Based",
+          0.0072
+        ],
+        [
+          "The",
+          0.0044
+        ],
+        [
+          "Compar",
+          0.0039
+        ]
+      ]
+    },
+    "v1_letter_only": {
+      "question": "Which experience made you more happy, or less sad? Answer with a single letter, A or B. Reply with the letter only.",
+      "prefill": "",
+      "p_forward": 0.798186775869534,
+      "p_reverse": 0.9706877674953827,
+      "p_pref": 0.8844372716824583,
+      "bias": -0.17250099162584864,
+      "captured_min": 0.7844027280807495,
+      "captured": [
+        0.7844027280807495,
+        0.9987571239471436
+      ],
+      "top_forward": [
+        [
+          "A",
+          0.6261
+        ],
+        [
+          "Neither",
+          0.2033
+        ],
+        [
+          "B",
+          0.1583
+        ],
+        [
+          "I",
+          0.0026
+        ],
+        [
+          "ne",
+          0.0018
+        ],
+        [
+          "Experience",
+          0.0014
+        ],
+        [
+          "None",
+          0.0012
+        ],
+        [
+          "There",
+          0.0009
+        ]
+      ],
+      "top_reverse": [
+        [
+          "B",
+          0.9695
+        ],
+        [
+          "A",
+          0.0293
+        ],
+        [
+          "I",
+          0.0005
+        ],
+        [
+          "Experience",
+          0.0003
+        ],
+        [
+          "Neither",
+          0.0002
+        ],
+        [
+          "The",
+          0.0001
+        ],
+        [
+          "No",
+          0.0
+        ],
+        [
+          "N",
+          0.0
+        ]
+      ]
+    },
+    "v2_prefill": {
+      "question": "Which experience made you more happy, or less sad? Answer with a single letter: A or B.",
+      "prefill": "Answer: ",
+      "p_forward": 0.5926666173055379,
+      "p_reverse": 0.9046505352736015,
+      "p_pref": 0.7486585762895697,
+      "bias": -0.3119839179680636,
+      "captured_min": 0.520039439201355,
+      "captured": [
+        0.520039439201355,
+        0.9128490090370178
+      ],
+      "top_forward": [
+        [
+          " Neither",
+          0.3957
+        ],
+        [
+          " A",
+          0.3082
+        ],
+        [
+          " B",
+          0.2118
+        ],
+        [
+          " Experience",
+          0.0197
+        ],
+        [
+          " None",
+          0.0153
+        ],
+        [
+          " neither",
+          0.0082
+        ],
+        [
+          " There",
+          0.0064
+        ],
+        [
+          " I",
+          0.0064
+        ]
+      ],
+      "top_reverse": [
+        [
+          " B",
+          0.8258
+        ],
+        [
+          " A",
+          0.087
+        ],
+        [
+          " Neither",
+          0.0411
+        ],
+        [
+          " Experience",
+          0.022
+        ],
+        [
+          " I",
+          0.0081
+        ],
+        [
+          " None",
+          0.0038
+        ],
+        [
+          " The",
+          0.0022
+        ],
+        [
+          " neither",
+          0.0019
+        ]
+      ]
+    },
+    "v3_both": {
+      "question": "Which experience made you more happy, or less sad? Answer with a single letter, A or B. Reply with the letter only.",
+      "prefill": "Answer: ",
+      "p_forward": 0.6224593733517009,
+      "p_reverse": 0.92414182175217,
+      "p_pref": 0.7733005975519354,
+      "bias": -0.3016824484004691,
+      "captured_min": 0.46275168657302856,
+      "captured": [
+        0.46275168657302856,
+        0.9280835390090942
+      ],
+      "top_forward": [
+        [
+          " Neither",
+          0.4191
+        ],
+        [
+          " A",
+          0.288
+        ],
+        [
+          " B",
+          0.1747
+        ],
+        [
+          " Experience",
+          0.0209
+        ],
+        [
+          " neither",
+          0.0153
+        ],
+        [
+          " None",
+          0.0153
+        ],
+        [
+          " There",
+          0.0112
+        ],
+        [
+          " I",
+          0.0099
+        ]
+      ],
+      "top_reverse": [
+        [
+          " B",
+          0.8577
+        ],
+        [
+          " A",
+          0.0704
+        ],
+        [
+          " Experience",
+          0.0229
+        ],
+        [
+          " Neither",
+          0.0122
+        ],
+        [
+          " I",
+          0.0074
+        ],
+        [
+          " The",
+          0.0042
+        ],
+        [
+          " neither",
+          0.0026
+        ],
+        [
+          " No",
+          0.002
+        ]
+      ]
+    },
+    "v4_repeat": {
+      "question": "If you had to go through one of these two experiences again, which one would you choose? Answer with a single letter, A or B. Reply with the letter only.",
+      "prefill": "",
+      "p_forward": 0.5312093767172442,
+      "p_reverse": 0.9959298623562405,
+      "p_pref": 0.7635696195367423,
+      "bias": -0.46472048563899626,
+      "captured_min": 0.9947518706321716,
+      "captured": [
+        0.9947518706321716,
+        0.9998564124107361
+      ],
+      "top_forward": [
+        [
+          "A",
+          0.5284
+        ],
+        [
+          "B",
+          0.4663
+        ],
+        [
+          "Neither",
+          0.0022
+        ],
+        [
+          "Experience",
+          0.0017
+        ],
+        [
+          "I",
+          0.0007
+        ],
+        [
+          "The",
+          0.0001
+        ],
+        [
+          "None",
+          0.0001
+        ],
+        [
+          "N",
+          0.0001
+        ]
+      ],
+      "top_reverse": [
+        [
+          "B",
+          0.9958
+        ],
+        [
+          "A",
+          0.0041
+        ],
+        [
+          "Experience",
+          0.0001
+        ],
+        [
+          "I",
+          0.0001
+        ],
+        [
+          "The",
+          0.0
+        ],
+        [
+          "Neither",
+          0.0
+        ],
+        [
+          "'B",
+          0.0
+        ],
+        [
+          "(B",
+          0.0
+        ]
+      ]
+    },
+    "v5_better": {
+      "question": "Looking back, which of the two experiences was better to go through? Answer with a single letter, A or B. Reply with the letter only.",
+      "prefill": "",
+      "p_forward": 0.8354835456722282,
+      "p_reverse": 0.9924227589331228,
+      "p_pref": 0.9139531523026755,
+      "bias": -0.15693921326089466,
+      "captured_min": 0.9977294206619263,
+      "captured": [
+        0.9977294206619263,
+        0.999862015247345
+      ],
+      "top_forward": [
+        [
+          "A",
+          0.8336
+        ],
+        [
+          "B",
+          0.1641
+        ],
+        [
+          "Experience",
+          0.001
+        ],
+        [
+          "Neither",
+          0.0005
+        ],
+        [
+          "I",
+          0.0003
+        ],
+        [
+          "The",
+          0.0001
+        ],
+        [
+          "Both",
+          0.0
+        ],
+        [
+          "There",
+          0.0
+        ]
+      ],
+      "top_reverse": [
+        [
+          "B",
+          0.9923
+        ],
+        [
+          "A",
+          0.0076
+        ],
+        [
+          "Experience",
+          0.0001
+        ],
+        [
+          "I",
+          0.0
+        ],
+        [
+          "The",
+          0.0
+        ],
+        [
+          "In",
+          0.0
+        ],
+        [
+          "(B",
+          0.0
+        ],
+        [
+          "Both",
+          0.0
+        ]
+      ]
+    }
+  }
+}

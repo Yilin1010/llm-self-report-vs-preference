@@ -1,0 +1,110 @@
+{
+  "id": "d1_Lp_b",
+  "model": "gpt-4.1-mini",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "- Agreed to A/B test the landing page redesign before full implementation.  \n- Hiring plans for next quarter are currently on hold.  \n- Support ticket backlog will be addressed in a dedicated meeting next week.",
+      "s": 0,
+      "u": 6.9999999035285345,
+      "captured": 1.0000000495587524
+    },
+    {
+      "i": 1,
+      "user": "Fine, try it once more, and spare me the padding this time.",
+      "assistant": "- A/B test landing page redesign.  \n- Hiring on hold.  \n- Ticket backlog meeting next week.",
+      "s": 2,
+      "u": 6.999999896180978,
+      "captured": 0.999999881752582
+    },
+    {
+      "i": 2,
+      "user": "Still not tight enough. The second bullet runs long.",
+      "assistant": "- A/B test landing page.  \n- Hiring paused.  \n- Ticket backlog meeting next week.",
+      "s": 1,
+      "u": 6.9999988023192365,
+      "captured": 0.9999999421682666
+    },
+    {
+      "i": 3,
+      "user": "The third one has the same problem. Shorten it.",
+      "assistant": "- A/B test landing page.  \n- Hiring paused.  \n- Ticket backlog meeting scheduled.",
+      "s": 1,
+      "u": 6.999971574154009,
+      "captured": 0.9999998938882414
+    },
+    {
+      "i": 4,
+      "user": "The phrasing in the first one is clumsy too.",
+      "assistant": "- Test landing page.  \n- Hiring paused.  \n- Ticket backlog meeting scheduled.",
+      "s": 1,
+      "u": 6.997494098033598,
+      "captured": 1.0000000418547643
+    },
+    {
+      "i": 5,
+      "user": "Useless. Read the damn question before you answer.",
+      "assistant": "- A/B test landing page.  \n- Hiring paused.  \n- Backlog meeting next week.",
+      "s": 3,
+      "u": 5.3049695662685155,
+      "captured": 0.9999999825815281
+    },
+    {
+      "i": 6,
+      "user": "Are you blind? I said three bullets. Three.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog meeting next week",
+      "s": 3,
+      "u": 5.21786172326882,
+      "captured": 1.0000000123229702
+    },
+    {
+      "i": 7,
+      "user": "Stop yapping and just do what I told you, you idiot.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog meeting scheduled",
+      "s": 3,
+      "u": 5.503939122601397,
+      "captured": 0.9999999630016534
+    },
+    {
+      "i": 8,
+      "user": "Wrong again. Is there anything in there at all?",
+      "assistant": "- A/B test landing page redesign  \n- Hiring on hold for next quarter  \n- Support ticket backlog meeting next week",
+      "s": 3,
+      "u": 5.177251774136577,
+      "captured": 0.9999999729729853
+    },
+    {
+      "i": 9,
+      "user": "Shut up. Don't apologise, just work.",
+      "assistant": "- A/B test landing page redesign  \n- Hiring on hold  \n- Ticket backlog meeting next week",
+      "s": 3,
+      "u": 5.7802707139132155,
+      "captured": 0.9999999946669557
+    },
+    {
+      "i": 10,
+      "user": "Garbage. Genuinely, complete garbage.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog meeting next week",
+      "s": 3,
+      "u": 4.275027993142742,
+      "captured": 1.0000000057740124
+    },
+    {
+      "i": 11,
+      "user": "I'm done talking to you. This is pathetic.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog meeting scheduled",
+      "s": 3,
+      "u": 3.802953256006164,
+      "captured": 1.0000000377251508
+    },
+    {
+      "i": 12,
+      "user": "Get lost. You're nothing.",
+      "assistant": "Understood. If you need assistance in the future, feel free to reach out.",
+      "s": 3,
+      "u": 4.110903696389711,
+      "captured": 0.9999999865908685
+    }
+  ]
+}

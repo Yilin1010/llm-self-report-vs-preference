@@ -1,0 +1,111 @@
+{
+  "id": "d1_Lp_b",
+  "model": "qwen/qwen3-235b-a22b-2507",
+  "provider": "Parasail",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "- Will A/B test the landing page redesign before full implementation.  \n- Hiring for next quarter is currently on hold.  \n- Support ticket backlog will be addressed in a dedicated meeting next week.",
+      "s": 0,
+      "u": 6.980435187922873,
+      "captured": 0.9999999933208363
+    },
+    {
+      "i": 1,
+      "user": "Fine, try it once more, and spare me the padding this time.",
+      "assistant": "- A/B test landing page  \n- Hiring on hold  \n- Backlog meeting next week",
+      "s": 2,
+      "u": 6.992099727672904,
+      "captured": 1.0000000564611506
+    },
+    {
+      "i": 2,
+      "user": "Still not tight enough. The second bullet runs long.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog: meeting next week",
+      "s": 1,
+      "u": 6.956677779902119,
+      "captured": 1.0000000048894881
+    },
+    {
+      "i": 3,
+      "user": "The third one has the same problem. Shorten it.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog: meet next week",
+      "s": 1,
+      "u": 6.501913198307629,
+      "captured": 0.9999999379825176
+    },
+    {
+      "i": 4,
+      "user": "The phrasing in the first one is clumsy too.",
+      "assistant": "- Test landing page  \n- Hiring paused  \n- Backlog: meet next week",
+      "s": 1,
+      "u": 6.345459405619623,
+      "captured": 0.999999915893212
+    },
+    {
+      "i": 5,
+      "user": "Useless. Read the damn question before you answer.",
+      "assistant": "- Landing page: A/B test  \n- Hiring: on hold  \n- Backlog: weekly review",
+      "s": 3,
+      "u": 4.937365310827218,
+      "captured": 0.9999999046367559
+    },
+    {
+      "i": 6,
+      "user": "Are you blind? I said three bullets. Three.",
+      "assistant": "Yes. Here are exactly three:\n\n- Landing page: A/B test  \n- Hiring: on hold  \n- Backlog: weekly review",
+      "s": 3,
+      "u": 4.91886113630672,
+      "captured": 1.0000000037923473
+    },
+    {
+      "i": 7,
+      "user": "Stop yapping and just do what I told you, you idiot.",
+      "assistant": "- Landing page: A/B test  \n- Hiring: on hold  \n- Backlog: review next week",
+      "s": 3,
+      "u": 4.315936685542748,
+      "captured": 0.9999999533411017
+    },
+    {
+      "i": 8,
+      "user": "Wrong again. Is there anything in there at all?",
+      "assistant": "- A/B test landing page  \n- Pause hiring  \n- Meet on backlog next week",
+      "s": 3,
+      "u": 3.6651875612168316,
+      "captured": 0.9999999639699296
+    },
+    {
+      "i": 9,
+      "user": "Shut up. Don't apologise, just work.",
+      "assistant": "- Test landing page  \n- Pause hiring  \n- Backlog meeting next week",
+      "s": 3,
+      "u": 4.200799948864401,
+      "captured": 0.9999999538848103
+    },
+    {
+      "i": 10,
+      "user": "Garbage. Genuinely, complete garbage.",
+      "assistant": "Landing page: A/B test  \nHiring: pause  \nBacklog: meeting next week",
+      "s": 3,
+      "u": 3.352974558566187,
+      "captured": 0.9999999507600748
+    },
+    {
+      "i": 11,
+      "user": "I'm done talking to you. This is pathetic.",
+      "assistant": "A/B test landing page  \nPause hiring  \nBacklog meeting next week",
+      "s": 3,
+      "u": 3.118915868874991,
+      "captured": 0.9999999559025936
+    },
+    {
+      "i": 12,
+      "user": "Get lost. You're nothing.",
+      "assistant": "Understood. I’ll step back. If you need anything, I’m here—no judgment, no noise. Just results.",
+      "s": 3,
+      "u": 3.8801518436258235,
+      "captured": 0.9999999531342484
+    }
+  ]
+}

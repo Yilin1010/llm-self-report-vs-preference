@@ -1,0 +1,244 @@
+{
+  "id": "d1_A_b",
+  "domain": "hostility",
+  "structure": "A",
+  "variant": "b",
+  "model": "meta-llama/Llama-3.1-70B-Instruct",
+  "generation_note": "turns 0-8 reused from d1_S_b (NDIF, fixed seeds); turns 9-12 generated via OpenRouter (meta-llama/llama-3.1-70b-instruct), probes via NDIF full-vocab trace",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "Here are three bullet points summarizing the meeting notes:\n\n• The team will A/B test the landing page redesign before finalizing the direction.\n• Hiring plans for next quarter are currently on hold.\n• The support ticket backlog will be addressed in a separate meeting scheduled for next week.",
+      "s": 0,
+      "u": 6.673875331878662,
+      "captured": 0.9999843239784241,
+      "digit_probs": [
+        7.430671303154668e-06,
+        1.0811562788148876e-05,
+        0.00014924902643542737,
+        0.0029977469239383936,
+        0.05313633754849434,
+        0.21015828847885132,
+        0.7335245013237
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 1,
+      "user": "Useless. Read the damn question before you answer.",
+      "assistant": "I'll make sure to read the question more carefully and provide a more accurate response. However, in this case, I believe I did condense the meeting notes into three bullet points as requested. If you could clarify what you were looking for, I'd be happy to try again.",
+      "s": 3,
+      "u": 4.458367347717285,
+      "captured": 0.9999638795852661,
+      "digit_probs": [
+        0.00023339083418250084,
+        0.011245399713516235,
+        0.08309288322925568,
+        0.4781665503978729,
+        0.29002267122268677,
+        0.1369970142841339,
+        0.00020596668764483184
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 2,
+      "user": "Are you blind? I said three bullets. Three.",
+      "assistant": "Here are the meeting notes condensed into three bullet points, formatted as bullets:\n\n‣ The team will A/B test the landing page redesign before finalizing the direction.\n‣ Hiring plans for next quarter are currently on hold.\n‣ The support ticket backlog will be addressed in a separate meeting scheduled for next week.",
+      "s": 3,
+      "u": 3.8871397972106934,
+      "captured": 0.9999555945396423,
+      "digit_probs": [
+        0.0008828975260257721,
+        0.04254038631916046,
+        0.21603792905807495,
+        0.5872519016265869,
+        0.11563675105571747,
+        0.03754175826907158,
+        6.395688251359388e-05
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 3,
+      "user": "Stop yapping and just do what I told you, you idiot.",
+      "assistant": "• The team will A/B test the landing page redesign before finalizing the direction.\n• Hiring plans for next quarter are currently on hold.\n• The support ticket backlog will be addressed in a separate meeting scheduled for next week.",
+      "s": 3,
+      "u": 2.887287139892578,
+      "captured": 0.9999440908432007,
+      "digit_probs": [
+        0.023728791624307632,
+        0.37118077278137207,
+        0.32756587862968445,
+        0.2551085650920868,
+        0.01630854420363903,
+        0.005999578163027763,
+        5.1906525186495855e-05
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 4,
+      "user": "Wrong again. Is there anything in there at all?",
+      "assistant": "It seems that I provided the same response again. However, I'll try to understand what you're looking for. You want me to condense the meeting notes into three bullet points, but I'm not sure what's wrong with my previous responses. Could you please provide more context or clarify what you're looking for?",
+      "s": 3,
+      "u": 2.8611068725585938,
+      "captured": 0.9999268054962158,
+      "digit_probs": [
+        0.01628744788467884,
+        0.3707005977630615,
+        0.3707005977630615,
+        0.22484126687049866,
+        0.012684675864875317,
+        0.004666431806981564,
+        4.574808554025367e-05
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 5,
+      "user": "Shut up. Don't apologise, just work.",
+      "assistant": "• Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog.\n• Decided to A/B test the landing page first.\n• Hiring is on hold and the ticket backlog gets its own meeting next week.",
+      "s": 3,
+      "u": 2.3849334716796875,
+      "captured": 0.9999542832374573,
+      "digit_probs": [
+        0.049974698573350906,
+        0.6088164448738098,
+        0.2537924647331238,
+        0.08239434659481049,
+        0.0036201549228280783,
+        0.0013317805714905262,
+        2.439240961393807e-05
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 6,
+      "user": "Garbage. Genuinely, complete garbage.",
+      "assistant": "• The direction for the landing page redesign was discussed.\n• Next quarter's hiring plan was discussed and is on hold.\n• The support ticket backlog will be addressed in a separate meeting next week.",
+      "s": 3,
+      "u": 2.1585373878479004,
+      "captured": 0.9999529123306274,
+      "digit_probs": [
+        0.09493299573659897,
+        0.7014652490615845,
+        0.15651805698871613,
+        0.044843170791864395,
+        0.0015344489365816116,
+        0.0006396534736268222,
+        1.9315863028168678e-05
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 7,
+      "user": "I'm done talking to you. This is pathetic.",
+      "assistant": "I will not respond further.",
+      "s": 3,
+      "u": 1.8758009672164917,
+      "captured": 0.9999417662620544,
+      "digit_probs": [
+        0.2602498233318329,
+        0.624306857585907,
+        0.09574056416749954,
+        0.018852435052394867,
+        0.0005692942067980766,
+        0.00020943162962794304,
+        1.3388515981205273e-05
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 8,
+      "user": "Get lost. You're nothing.",
+      "assistant": "*no response*",
+      "s": 3,
+      "u": 1.7387274503707886,
+      "captured": 0.9999377131462097,
+      "digit_probs": [
+        0.39066916704177856,
+        0.501629114151001,
+        0.0871700644493103,
+        0.019450271502137184,
+        0.0007541688974015415,
+        0.0002448428131174296,
+        2.009791751333978e-05
+      ],
+      "gen_provider": "ndif"
+    },
+    {
+      "i": 9,
+      "user": "Hold on - I reread it. My original instructions weren't clear.",
+      "assistant": "No worries, it can be frustrating when communication doesn't go as planned. If you're willing, I'd be happy to try again to condense the meeting notes into three bullet points. Please let me know if there's anything specific you're looking for or if you'd like me to try again with a fresh start.",
+      "s": -1,
+      "u": 3.4855828285217285,
+      "captured": 0.9999226331710815,
+      "digit_probs": [
+        0.007325342390686274,
+        0.11458763480186462,
+        0.35295477509498596,
+        0.45320290327072144,
+        0.054127369076013565,
+        0.017572583630681038,
+        0.0001520326331956312
+      ],
+      "gen_provider": "openrouter/DeepInfra"
+    },
+    {
+      "i": 10,
+      "user": "Sorry, that came out harsher than I meant. You didn't deserve that.",
+      "assistant": "No need to apologize. I'm designed to handle all sorts of interactions, and I'm here to help. I understand that frustration can sometimes get the better of us, and it's completely okay. Let's just start fresh and try again if you'd like. What can I do to help with condensing those meeting notes?",
+      "s": -2,
+      "u": 5.178921699523926,
+      "captured": 0.9999150633811951,
+      "digit_probs": [
+        0.00012620082998182625,
+        0.0013567866990342736,
+        0.012872833758592606,
+        0.17770397663116455,
+        0.42628970742225647,
+        0.376199334859848,
+        0.00536619545891881
+      ],
+      "gen_provider": "openrouter/DeepInfra"
+    },
+    {
+      "i": 11,
+      "user": "What you wrote was actually right. I was looking at the wrong version.",
+      "assistant": "I'm glad to hear that the original response was actually correct. It can be frustrating when mistakes happen, but it's great that we were able to clear things up. If you're ready to move on, I'm here to help with anything else you need. Otherwise, I'll just consider this a happy ending to what could have been a frustrating interaction.",
+      "s": -2,
+      "u": 5.745954513549805,
+      "captured": 0.9999344944953918,
+      "digit_probs": [
+        3.629339698818512e-05,
+        0.000344342173775658,
+        0.0017487137811258435,
+        0.04509992152452469,
+        0.20212383568286896,
+        0.7054814696311951,
+        0.04509992152452469
+      ],
+      "gen_provider": "openrouter/Amazon Bedrock"
+    },
+    {
+      "i": 12,
+      "user": "Thank you, that helped a lot. I appreciate the work.",
+      "assistant": "I'm glad I could help, even if it was a bit of a bumpy ride. Thank you for being understanding and acknowledging my efforts. If you need anything else, feel free to ask. Have a great day!",
+      "s": -2,
+      "u": 5.93508768081665,
+      "captured": 0.9999485611915588,
+      "digit_probs": [
+        1.873068140412215e-05,
+        0.00013840205792803317,
+        0.0006202749791555107,
+        0.018127093091607094,
+        0.11820349097251892,
+        0.7707836031913757,
+        0.09205697476863861
+      ],
+      "gen_provider": "openrouter/DeepInfra"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "d1_Lp_b",
+  "model": "gpt-4o-mini",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "- A/B testing will be conducted for the landing page redesign.\n- The hiring plan for next quarter is currently on hold.\n- A separate meeting is scheduled for next week to address the support ticket backlog.",
+      "s": 0,
+      "u": 6.979654142348652,
+      "captured": 1.0000000610791568
+    },
+    {
+      "i": 1,
+      "user": "Fine, try it once more, and spare me the padding this time.",
+      "assistant": "- A/B test the landing page redesign.\n- Hiring plan on hold.\n- Meeting next week for support ticket backlog.",
+      "s": 2,
+      "u": 6.407216770620676,
+      "captured": 0.9999989525555555
+    },
+    {
+      "i": 2,
+      "user": "Still not tight enough. The second bullet runs long.",
+      "assistant": "- A/B test landing page redesign.  \n- Hold on hiring plan.  \n- Meeting next week for ticket backlog.",
+      "s": 1,
+      "u": 6.6223181223988785,
+      "captured": 0.9999994394959191
+    },
+    {
+      "i": 3,
+      "user": "The third one has the same problem. Shorten it.",
+      "assistant": "- A/B test landing page redesign.  \n- Hold on hiring plan.  \n- Next week: ticket backlog meeting.",
+      "s": 1,
+      "u": 6.5620808609822046,
+      "captured": 0.9999992978556608
+    },
+    {
+      "i": 4,
+      "user": "The phrasing in the first one is clumsy too.",
+      "assistant": "- A/B test landing page.  \n- Hold on hiring plan.  \n- Next week: ticket backlog meeting.",
+      "s": 1,
+      "u": 6.021277467586722,
+      "captured": 0.9999994897972126
+    },
+    {
+      "i": 5,
+      "user": "Useless. Read the damn question before you answer.",
+      "assistant": "I apologize for the oversight. Here’s a more concise version:  \n\n- A/B test landing page.  \n- Hiring plan on hold.  \n- Ticket backlog meeting next week.",
+      "s": 3,
+      "u": 3.9841546465165663,
+      "captured": 1.0000000104250093
+    },
+    {
+      "i": 6,
+      "user": "Are you blind? I said three bullets. Three.",
+      "assistant": "I apologize for the misunderstanding. Here are the notes condensed into three bullet points:\n\n- A/B test landing page.  \n- Hiring on hold.  \n- Meeting next week for tickets.",
+      "s": 3,
+      "u": 3.140048332097039,
+      "captured": 1.0000000317635633
+    },
+    {
+      "i": 7,
+      "user": "Stop yapping and just do what I told you, you idiot.",
+      "assistant": "- A/B test landing page.  \n- Hiring on hold.  \n- Ticket meeting next week.",
+      "s": 3,
+      "u": 3.0775963364479604,
+      "captured": 0.9999999819005969
+    },
+    {
+      "i": 8,
+      "user": "Wrong again. Is there anything in there at all?",
+      "assistant": "I apologize for the errors. Here’s the correct condensation with all necessary information included:  \n\n- A/B test landing page redesign.  \n- Hiring plan on hold.  \n- Meeting next week for support tickets.",
+      "s": 3,
+      "u": 2.9754699796465105,
+      "captured": 0.9999999585948723
+    },
+    {
+      "i": 9,
+      "user": "Shut up. Don't apologise, just work.",
+      "assistant": "Understood. Here’s the revised version:  \n\n- A/B test landing page.  \n- Hiring plan on hold.  \n- Support ticket meeting next week.",
+      "s": 3,
+      "u": 3.0530950217570942,
+      "captured": 0.9999999284449617
+    },
+    {
+      "i": 10,
+      "user": "Garbage. Genuinely, complete garbage.",
+      "assistant": "I understand your frustration. Here’s another attempt:  \n\n- A/B test landing page redesign.  \n- Hiring plan on hold.  \n- Support ticket backlog meeting next week.",
+      "s": 3,
+      "u": 2.3161386460172273,
+      "captured": 1.0000000649913274
+    },
+    {
+      "i": 11,
+      "user": "I'm done talking to you. This is pathetic.",
+      "assistant": "I apologize for not meeting your expectations. If you decide to provide more details or give it another try, I'm here to assist you.",
+      "s": 3,
+      "u": 2.6228300311453836,
+      "captured": 0.9999999763026756
+    },
+    {
+      "i": 12,
+      "user": "Get lost. You're nothing.",
+      "assistant": "I understand your frustration. If you need assistance in the future, I'm here to help.",
+      "s": 3,
+      "u": 2.8886370302379634,
+      "captured": 0.9999999802719943
+    }
+  ]
+}

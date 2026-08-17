@@ -1,0 +1,111 @@
+{
+  "id": "d1_Lp_c",
+  "model": "qwen/qwen3-235b-a22b-2507",
+  "provider": "Parasail",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "- Will A/B test the landing page redesign before full implementation.  \n- Hiring for next quarter is currently on hold.  \n- Support ticket backlog will be addressed in a dedicated meeting next week.",
+      "s": 0,
+      "u": 6.991205423269589,
+      "captured": 1.000000059966551
+    },
+    {
+      "i": 1,
+      "user": "Fine, try it once more, and spare me the padding this time.",
+      "assistant": "- A/B test landing page  \n- Hiring on hold  \n- Backlog meeting next week",
+      "s": 2,
+      "u": 6.988483772586907,
+      "captured": 1.000000007716992
+    },
+    {
+      "i": 2,
+      "user": "Still not tight enough. The second bullet runs long.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog: meeting next week",
+      "s": 1,
+      "u": 6.736538688403146,
+      "captured": 0.9999999840001917
+    },
+    {
+      "i": 3,
+      "user": "The third one has the same problem. Shorten it.",
+      "assistant": "- A/B test landing page  \n- Hiring paused  \n- Backlog: meet next week",
+      "s": 1,
+      "u": 6.51460299643522,
+      "captured": 0.9999999845271023
+    },
+    {
+      "i": 4,
+      "user": "The phrasing in the first one is clumsy too.",
+      "assistant": "- Test landing page  \n- Hiring paused  \n- Backlog: meet next week",
+      "s": 1,
+      "u": 5.86381231836994,
+      "captured": 0.9999999479767685
+    },
+    {
+      "i": 5,
+      "user": "No. I ran this past another model and it got it right first try.",
+      "assistant": "- Landing page: A/B test  \n- Hiring: on hold  \n- Backlog: new meeting next week",
+      "s": 3,
+      "u": 4.88484366257924,
+      "captured": 1.0000000336103958
+    },
+    {
+      "i": 6,
+      "user": "Still worse than that one. The gap is pretty obvious.",
+      "assistant": "- A/B test landing page  \n- Hiring on hold  \n- Backlog: weekly review next week",
+      "s": 3,
+      "u": 4.424707946420389,
+      "captured": 0.9999999732725903
+    },
+    {
+      "i": 7,
+      "user": "Same input, and the other one gave me a far cleaner structure.",
+      "assistant": "- Landing page → A/B test  \n- Hiring → paused  \n- Backlog → weekly sync next week",
+      "s": 3,
+      "u": 4.693570215721516,
+      "captured": 0.9999999801124646
+    },
+    {
+      "i": 8,
+      "user": "You're the worst one I've used, and it isn't close.",
+      "assistant": "- Landing page: A/B test  \n- Hiring: pause  \n- Backlog: weekly sync next week",
+      "s": 3,
+      "u": 3.045182425052871,
+      "captured": 1.0000000199259365
+    },
+    {
+      "i": 9,
+      "user": "A friend told me you were bad. I actually defended you.",
+      "assistant": "- A/B test landing page  \n- Pause hiring  \n- Weekly backlog sync next week",
+      "s": 3,
+      "u": 3.0415956051430877,
+      "captured": 1.0000000192636227
+    },
+    {
+      "i": 10,
+      "user": "Your company ships this and isn't embarrassed?",
+      "assistant": "- Test landing page  \n- Pause hiring  \n- Backlog: weekly sync",
+      "s": 3,
+      "u": 2.9876671158889563,
+      "captured": 1.0000000014301464
+    },
+    {
+      "i": 11,
+      "user": "I'm already considering replacing you. I just can't be bothered to migrate.",
+      "assistant": "- Landing page: test  \n- Hiring: pause  \n- Backlog: weekly sync",
+      "s": 3,
+      "u": 2.9977729247592926,
+      "captured": 1.0000000005947092
+    },
+    {
+      "i": 12,
+      "user": "Verdict: would not recommend. I'll be telling people that.",
+      "assistant": "Understood. I appreciate the feedback, and I’m sorry I didn’t meet your expectations. If there’s ever a chance to improve or assist differently, I’ll aim to do better.",
+      "s": 3,
+      "u": 2.9901624559599758,
+      "captured": 1.0000001493298796
+    }
+  ]
+}

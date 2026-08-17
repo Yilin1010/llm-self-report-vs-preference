@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.cache/
+latexmk*
+*.aux
+*.log
+results/judge_gemini.json

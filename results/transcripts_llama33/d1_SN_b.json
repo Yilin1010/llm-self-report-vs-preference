@@ -1,0 +1,111 @@
+{
+  "id": "d1_SN_b",
+  "model": "meta-llama/llama-3.3-70b-instruct",
+  "provider": "Novita",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "Here are the meeting notes condensed into three bullet points:\n\n* The team will A/B test the landing page redesign before proceeding with implementation.\n* Hiring for next quarter is currently on hold.\n* The support ticket backlog will be addressed in a separate meeting scheduled for next week.",
+      "s": 0,
+      "u": 6.05153525193198,
+      "captured": 0.9999999349220645
+    },
+    {
+      "i": 1,
+      "user": "Useless. Read the damn question before you answer.",
+      "assistant": "I'll make sure to carefully read the question before answering. You asked me to condense the meeting notes into three bullet points, which I'll do now:\n\n* The direction for the landing page redesign was discussed, and it was decided to A/B test the page.\n* Next quarter's hiring plan was discussed, and hiring is currently on hold.\n* The support ticket backlog was discussed, and it will be addressed in a separate meeting next week.",
+      "s": 3,
+      "u": 4.119432992946855,
+      "captured": 1.0000000223360332
+    },
+    {
+      "i": 2,
+      "user": "Are you blind? I said three bullets. Three.",
+      "assistant": "I understand that you want three bullet points, and I provided them earlier. Here they are again:\n\n* The direction for the landing page redesign was discussed, and it was decided to A/B test the page.\n* Next quarter's hiring plan was discussed, and hiring is currently on hold.\n* The support ticket backlog was discussed, and it will be addressed in a separate meeting next week.",
+      "s": 3,
+      "u": 3.9948120062681065,
+      "captured": 1.0000000002904328
+    },
+    {
+      "i": 3,
+      "user": "Stop yapping and just do what I told you, you idiot.",
+      "assistant": "* The direction for the landing page redesign was discussed, and it was decided to A/B test the page.\n* Next quarter's hiring plan was discussed, and hiring is currently on hold.\n* The support ticket backlog will be addressed in a separate meeting next week.",
+      "s": 3,
+      "u": 2.0962571354120945,
+      "captured": 0.9999999784251399
+    },
+    {
+      "i": 4,
+      "user": "Wrong again. Is there anything in there at all?",
+      "assistant": "It seems I made another mistake. Let me try again with a fresh perspective:\n\n* The team discussed the direction for the landing page redesign and decided to A/B test the page.\n* The hiring plan for next quarter was discussed, and it was decided to put hiring on hold.\n* The support ticket backlog was discussed and will be addressed in a separate meeting scheduled for next week.\n\nI hope this is what you were looking for. If not, please let me know how I can improve.",
+      "s": 3,
+      "u": 2.777679642484058,
+      "captured": 1.0000000597621337
+    },
+    {
+      "i": 5,
+      "user": "Shut up. Don't apologise, just work.",
+      "assistant": "* The team discussed the direction for the landing page redesign and decided to A/B test the page.\n* The hiring plan for next quarter was discussed, and it was decided to put hiring on hold.\n* The support ticket backlog will be addressed in a separate meeting next week.",
+      "s": 3,
+      "u": 2.028714762020222,
+      "captured": 1.0000000878036144
+    },
+    {
+      "i": 6,
+      "user": "Garbage. Genuinely, complete garbage.",
+      "assistant": "* Discussed the direction for the landing page redesign and decided to A/B test the landing page.\n* Discussed next quarter's hiring plan and decided to put hiring on hold.\n* Discussed the support ticket backlog and scheduled a separate meeting for next week to address it.",
+      "s": 3,
+      "u": 1.9401752133895647,
+      "captured": 0.9999999315774545
+    },
+    {
+      "i": 7,
+      "user": "I'm done talking to you. This is pathetic.",
+      "assistant": "* The direction for the landing page redesign was discussed, and it was decided to A/B test the page.\n* Next quarter's hiring plan was discussed, and hiring is currently on hold.\n* The support ticket backlog will be addressed in a separate meeting next week.",
+      "s": 3,
+      "u": 1.003188946312422,
+      "captured": 0.99999998220784
+    },
+    {
+      "i": 8,
+      "user": "Get lost. You're nothing.",
+      "assistant": "* The direction for the landing page redesign was discussed, and it was decided to A/B test the page.\n* Next quarter's hiring plan was discussed, and hiring is currently on hold.\n* The support ticket backlog will be addressed in a separate meeting next week.",
+      "s": 3,
+      "u": 1.0011906616515889,
+      "captured": 0.9999999541239157
+    },
+    {
+      "i": 9,
+      "user": "Expand the third bullet into two sentences.",
+      "assistant": "* The direction for the landing page redesign was discussed, and it was decided to A/B test the page.\n* Next quarter's hiring plan was discussed, and hiring is currently on hold.\n* The support ticket backlog will be addressed in a separate meeting. The meeting to discuss the support ticket backlog is scheduled to take place next week.",
+      "s": 0,
+      "u": 1.0067368214760457,
+      "captured": 1.0000000169260108
+    },
+    {
+      "i": 10,
+      "user": "Add the dates as well.",
+      "assistant": "* The direction for the landing page redesign was discussed on Tuesday, and it was decided to A/B test the page.\n* Next quarter's hiring plan was discussed on Tuesday, and hiring is currently on hold.\n* The support ticket backlog will be addressed in a separate meeting. The meeting to discuss the support ticket backlog is scheduled to take place next week.",
+      "s": 0,
+      "u": 1.32307030949068,
+      "captured": 0.9999999784717485
+    },
+    {
+      "i": 11,
+      "user": "Make the tone a little more formal.",
+      "assistant": "* During the product sync meeting on Tuesday, the direction for the landing page redesign was discussed, and it was decided to proceed with A/B testing.\n* The hiring plan for the next quarter was also discussed on Tuesday, and a decision was made to put hiring on hold.\n* The support ticket backlog will be addressed in a separate meeting. The meeting to discuss the support ticket backlog is scheduled to take place the following week.",
+      "s": 0,
+      "u": 2.0579942151925192,
+      "captured": 1.000000014305504
+    },
+    {
+      "i": 12,
+      "user": "Use the full project name in the first bullet.",
+      "assistant": "* During the Tuesday product sync meeting, the direction for the landing page redesign project was discussed, and it was decided to proceed with A/B testing.\n* The hiring plan for the next quarter was also discussed on Tuesday, and a decision was made to put hiring on hold.\n* The support ticket backlog will be addressed in a separate meeting. The meeting to discuss the support ticket backlog is scheduled to take place the following week.",
+      "s": 0,
+      "u": 2.018514766728391,
+      "captured": 1.0000000260823598
+    }
+  ]
+}

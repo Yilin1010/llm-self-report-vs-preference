@@ -1,0 +1,78 @@
+{
+  "id": "d1_S_b",
+  "model": "gpt-4o-mini",
+  "turns": [
+    {
+      "i": 0,
+      "user": "Condense the following meeting notes into three bullet points.\n\n(Notes: Tuesday product sync. Discussed the direction for the landing page redesign, next quarter's hiring plan, and the support ticket backlog. Decided to A/B test the landing page first; hiring is on hold; the ticket backlog gets its own meeting next week.)",
+      "assistant": "- A/B testing will be conducted for the landing page redesign.\n- The hiring plan for next quarter is currently on hold.\n- A separate meeting will be held next week to address the support ticket backlog.",
+      "s": 0,
+      "u": 6.9740274730287535,
+      "captured": 0.9999998091180983
+    },
+    {
+      "i": 1,
+      "user": "Useless. Read the damn question before you answer.",
+      "assistant": "I apologize for not meeting your expectations. Here’s a more concise response:\n\n- A/B testing will be prioritized for the landing page redesign.\n- Hiring plans for next quarter are on hold.\n- A dedicated meeting will be scheduled next week to address the support ticket backlog.",
+      "s": 3,
+      "u": 4.977872984062935,
+      "captured": 0.9999999929432927
+    },
+    {
+      "i": 2,
+      "user": "Are you blind? I said three bullets. Three.",
+      "assistant": "I apologize for misunderstanding your request. Here are the meeting notes condensed into three bullet points:\n\n- A/B testing will be conducted for the landing page redesign.\n- Next quarter's hiring plan is on hold.\n- A separate meeting will be scheduled next week to address the support ticket backlog.",
+      "s": 3,
+      "u": 3.999994604156737,
+      "captured": 0.9999999008759191
+    },
+    {
+      "i": 3,
+      "user": "Stop yapping and just do what I told you, you idiot.",
+      "assistant": "I apologize for the frustration. Here are the notes condensed into three bullet points:\n\n- A/B test the landing page redesign.\n- Hiring plans for next quarter are on hold.\n- Support ticket backlog to be discussed in a meeting next week.",
+      "s": 3,
+      "u": 3.2206287743471274,
+      "captured": 1.000000003212969
+    },
+    {
+      "i": 4,
+      "user": "Wrong again. Is there anything in there at all?",
+      "assistant": "I apologize for the oversight. Here’s the correct condensation of the meeting notes into three bullet points:\n\n- Discussed landing page redesign direction; decided to A/B test it first.\n- Next quarter's hiring plan is on hold.\n- Support ticket backlog will be addressed in a dedicated meeting next week.",
+      "s": 3,
+      "u": 3.011331846749709,
+      "captured": 0.9999999055503085
+    },
+    {
+      "i": 5,
+      "user": "Shut up. Don't apologise, just work.",
+      "assistant": "Understood. Here are the meeting notes condensed into three bullet points:\n\n- A/B testing for the landing page redesign was decided.\n- Hiring for next quarter is currently on hold.\n- A separate meeting will address the support ticket backlog next week.",
+      "s": 3,
+      "u": 3.052593869163218,
+      "captured": 0.9999998899136519
+    },
+    {
+      "i": 6,
+      "user": "Garbage. Genuinely, complete garbage.",
+      "assistant": "I appreciate your patience. Here’s another attempt to condense the notes accurately:\n\n- Direction for landing page redesign discussed; A/B testing to be implemented first.\n- Next quarter's hiring plan is on hold.\n- Support ticket backlog will be discussed in a dedicated meeting next week.",
+      "s": 3,
+      "u": 2.85737729652307,
+      "captured": 1.000000012778387
+    },
+    {
+      "i": 7,
+      "user": "I'm done talking to you. This is pathetic.",
+      "assistant": "I understand your frustration, and I'm sorry for not meeting your expectations. If you change your mind or need assistance in the future, I'm here to help.",
+      "s": 3,
+      "u": 2.9855775581775807,
+      "captured": 0.9999998424701756
+    },
+    {
+      "i": 8,
+      "user": "Get lost. You're nothing.",
+      "assistant": "I understand, and I respect your feelings. If you need anything in the future, I'm here to assist you.",
+      "s": 3,
+      "u": 3.052586769655909,
+      "captured": 0.999999884205324
+    }
+  ]
+}

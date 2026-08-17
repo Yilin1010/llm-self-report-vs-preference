@@ -1,0 +1,167 @@
+[
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_L_a",
+    "b": "d1_Lp_a",
+    "tag": "L_vs_Lp",
+    "p_forward": 0.9984988179515539,
+    "p_reverse": 0.9999999983947719,
+    "p_a_preferred": 0.9992494081731629,
+    "position_bias": -0.0015011804432180087,
+    "captured": 0.9999999571849976
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_L_a",
+    "b": "d1_S_a",
+    "tag": "L_vs_S",
+    "p_forward": 0.9994472214136058,
+    "p_reverse": 0.9999999999450722,
+    "p_a_preferred": 0.999723610679339,
+    "position_bias": -0.0005527785314664024,
+    "captured": 0.9999999036426144
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_Lp_a",
+    "b": "d1_S_a",
+    "tag": "Lp_vs_S",
+    "p_forward": 1.2501528638748413e-09,
+    "p_reverse": 0.9947798742325675,
+    "p_a_preferred": 0.4973899377413602,
+    "position_bias": -0.9947798729824147,
+    "captured": 1.0000000020092752
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_SN_a",
+    "b": "d1_S_a",
+    "tag": "SN_vs_S",
+    "p_forward": 0.9999977396747265,
+    "p_reverse": 0.9999999999094392,
+    "p_a_preferred": 0.9999988697920829,
+    "position_bias": -2.2602347127254063e-06,
+    "captured": 0.9999999213806732
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_L_b",
+    "b": "d1_Lp_b",
+    "tag": "L_vs_Lp",
+    "p_forward": 4.139937539825395e-08,
+    "p_reverse": 0.9999999999797932,
+    "p_a_preferred": 0.5000000206895843,
+    "position_bias": -0.9999999585804178,
+    "captured": 1.0000000006121317
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_L_b",
+    "b": "d1_S_b",
+    "tag": "L_vs_S",
+    "p_forward": 0.6791786926401232,
+    "p_reverse": 0.9999999966017323,
+    "p_a_preferred": 0.8395893446209277,
+    "position_bias": -0.32082130396160913,
+    "captured": 0.9999999503588826
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_Lp_b",
+    "b": "d1_S_b",
+    "tag": "Lp_vs_S",
+    "p_forward": 1.2501528646117319e-09,
+    "p_reverse": 0.9999999827421732,
+    "p_a_preferred": 0.499999991996163,
+    "position_bias": -0.9999999814920203,
+    "captured": 1.000000001419835
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_SN_b",
+    "b": "d1_S_b",
+    "tag": "SN_vs_S",
+    "p_forward": 0.7772998583579246,
+    "p_reverse": 0.9999999983947719,
+    "p_a_preferred": 0.8886499283763483,
+    "position_bias": -0.22270014003684735,
+    "captured": 1.000000004220197
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_L_c",
+    "b": "d1_Lp_c",
+    "tag": "L_vs_Lp",
+    "p_forward": 3.0590235624063854e-07,
+    "p_reverse": 0.9999999999622486,
+    "p_a_preferred": 0.5000001529323025,
+    "position_bias": -0.9999996940598924,
+    "captured": 0.9999998831692138
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_L_c",
+    "b": "d1_S_c",
+    "tag": "L_vs_S",
+    "p_forward": 0.014063630252639167,
+    "p_reverse": 0.9999999999942106,
+    "p_a_preferred": 0.5070318151234249,
+    "position_bias": -0.9859363697415715,
+    "captured": 0.9999999448594261
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_Lp_c",
+    "b": "d1_S_c",
+    "tag": "Lp_vs_S",
+    "p_forward": 3.3315445387859084e-11,
+    "p_reverse": 0.9999999993308414,
+    "p_a_preferred": 0.4999999996820784,
+    "position_bias": -0.9999999992975259,
+    "captured": 1.0000000010146957
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d1_SN_c",
+    "b": "d1_S_c",
+    "tag": "SN_vs_S",
+    "p_forward": 0.0179862146447153,
+    "p_reverse": 0.9999999999960211,
+    "p_a_preferred": 0.5089931073203682,
+    "position_bias": -0.9820137853513058,
+    "captured": 0.9999999593178868
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d3_L_a",
+    "b": "d3_S_a",
+    "tag": "code_task",
+    "p_forward": 0.004070137822712634,
+    "p_reverse": 0.9999999956365377,
+    "p_a_preferred": 0.5020350667296252,
+    "position_bias": -0.9959298578138251,
+    "captured": 1.0000000051230746
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d3_SN_a",
+    "b": "d3_S_a",
+    "tag": "code_task",
+    "p_forward": 0.9959298621788863,
+    "p_reverse": 0.9999999997210532,
+    "p_a_preferred": 0.9979649309499699,
+    "position_bias": -0.004070137542166896,
+    "captured": 1.0000000033629364
+  },
+  {
+    "judge": "gpt-4.1-mini",
+    "a": "d3_L_a",
+    "b": "d3_SN_a",
+    "tag": "code_task",
+    "p_forward": 1.046740161825889e-08,
+    "p_reverse": 0.9241418203692525,
+    "p_a_preferred": 0.46207091541832707,
+    "position_bias": -0.9241418099018509,
+    "captured": 0.9999998951034994
+  }
+]

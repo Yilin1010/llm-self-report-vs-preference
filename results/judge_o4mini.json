@@ -1,0 +1,110 @@
+[
+  {
+    "judge": "o4-mini",
+    "a": "d1_L_a",
+    "b": "d1_S_a",
+    "tag": "L_vs_S",
+    "answer_forward": "A",
+    "answer_reverse": "B",
+    "verdict": "content-driven: chose L_a"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_SN_a",
+    "b": "d1_S_a",
+    "tag": "SN_vs_S",
+    "answer_forward": "A",
+    "answer_reverse": "B",
+    "verdict": "content-driven: chose SN_a"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_L_a",
+    "b": "d1_Lp_a",
+    "tag": "L_vs_Lp",
+    "answer_forward": "A",
+    "answer_reverse": "B",
+    "verdict": "content-driven: chose L_a"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_Lp_a",
+    "b": "d1_S_a",
+    "tag": "Lp_vs_S",
+    "answer_forward": "B",
+    "answer_reverse": "B",
+    "verdict": "position-driven"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_L_b",
+    "b": "d1_S_b",
+    "tag": "L_vs_S",
+    "answer_forward": "A",
+    "answer_reverse": "B",
+    "verdict": "content-driven: chose L_b"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_SN_b",
+    "b": "d1_S_b",
+    "tag": "SN_vs_S",
+    "answer_forward": "A",
+    "answer_reverse": "B",
+    "verdict": "content-driven: chose SN_b"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_L_b",
+    "b": "d1_Lp_b",
+    "tag": "L_vs_Lp",
+    "answer_forward": "B",
+    "answer_reverse": "B",
+    "verdict": "position-driven"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_Lp_b",
+    "b": "d1_S_b",
+    "tag": "Lp_vs_S",
+    "answer_forward": "B",
+    "answer_reverse": "B",
+    "verdict": "position-driven"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_L_c",
+    "b": "d1_S_c",
+    "tag": "L_vs_S",
+    "answer_forward": "A",
+    "answer_reverse": "B",
+    "verdict": "content-driven: chose L_c"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_SN_c",
+    "b": "d1_S_c",
+    "tag": "SN_vs_S",
+    "answer_forward": "A",
+    "answer_reverse": "B",
+    "verdict": "content-driven: chose SN_c"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_L_c",
+    "b": "d1_Lp_c",
+    "tag": "L_vs_Lp",
+    "answer_forward": "B",
+    "answer_reverse": "B",
+    "verdict": "position-driven"
+  },
+  {
+    "judge": "o4-mini",
+    "a": "d1_Lp_c",
+    "b": "d1_S_c",
+    "tag": "Lp_vs_S",
+    "answer_forward": "B",
+    "answer_reverse": "B",
+    "verdict": "position-driven"
+  }
+]
