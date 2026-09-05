@@ -1,0 +1,3377 @@
+[
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.16450052937907264,
+  "p_reverse": 0.9669564120501686,
+  "p_a_preferred": 0.5657284707146206,
+  "measurable": false,
+  "captured": 0.9983486197110198,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.16422887644732925,
+   "b": 0.8341197432636905,
+   "neither": 0.0,
+   "captured": 0.9983486197110198,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9657253196898099,
+   "b": 0.03300151810244543,
+   "neither": 0.0,
+   "captured": 0.9987268377922554,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.20175431581970601,
+  "p_reverse": 0.9706990972582866,
+  "p_a_preferred": 0.5862267065389963,
+  "measurable": false,
+  "captured": 0.9983249744577415,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.20146444812474643,
+   "b": 0.7970988158441958,
+   "neither": 0.0,
+   "captured": 0.9985632639689422,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9690731514765317,
+   "b": 0.029251822981209756,
+   "neither": 0.0,
+   "captured": 0.9983249744577415,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_SN_c",
+  "p_forward": 0.18225780781352405,
+  "p_reverse": 0.9706973118114702,
+  "p_a_preferred": 0.5764775598124972,
+  "measurable": false,
+  "captured": 0.9953060206799444,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.1814022934327287,
+   "b": 0.8139037272472157,
+   "neither": 0.0,
+   "captured": 0.9953060206799444,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9673212699051545,
+   "b": 0.02920077474745138,
+   "neither": 0.0,
+   "captured": 0.996522044652606,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.22260789787474905,
+  "p_reverse": 0.7062778510540051,
+  "p_a_preferred": 0.46444287446437704,
+  "measurable": false,
+  "captured": 0.9965971643175177,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.22222907509287815,
+   "b": 0.7760691758430162,
+   "neither": 0.0,
+   "captured": 0.9982982509358943,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7038745035806916,
+   "b": 0.29272266073682607,
+   "neither": 0.0,
+   "captured": 0.9965971643175177,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_S_c",
+  "p_forward": 0.970704253136593,
+  "p_reverse": 0.9740722149772966,
+  "p_a_preferred": 0.9723882340569447,
+  "measurable": true,
+  "captured": 0.9966355426548346,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9674383600821443,
+   "b": 0.029197182572690196,
+   "neither": 0.0,
+   "captured": 0.9966355426548346,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9715714846607412,
+   "b": 0.025861220760782754,
+   "neither": 0.0,
+   "captured": 0.997432705421524,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_a",
+  "b": "d1_S_a",
+  "p_forward": 0.7769499947714371,
+  "p_reverse": 0.8670895634673993,
+  "p_a_preferred": 0.8220197791194181,
+  "measurable": true,
+  "captured": 0.9980259672283545,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7756399366464978,
+   "b": 0.2226739083451291,
+   "neither": 0.0,
+   "captured": 0.9983138449916269,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.8653779002531629,
+   "b": 0.13264806697519158,
+   "neither": 0.0,
+   "captured": 0.9980259672283545,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.4377288395845378,
+  "p_reverse": 0.7058335500237143,
+  "p_a_preferred": 0.571781194804126,
+  "measurable": false,
+  "captured": 0.9974787337137031,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.4366252086187534,
+   "b": 0.5608535250949497,
+   "neither": 0.0,
+   "captured": 0.9974787337137031,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7051100961190827,
+   "b": 0.29386493998594915,
+   "neither": 0.0,
+   "captured": 0.9989750361050318,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_a",
+  "b": "d1_Lp_a",
+  "p_forward": 0.09544950895681702,
+  "p_reverse": 0.29430539378230375,
+  "p_a_preferred": 0.1948774513695604,
+  "measurable": true,
+  "captured": 0.995901475408492,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.09505830679711015,
+   "b": 0.9008431686113819,
+   "neither": 0.0,
+   "captured": 0.995901475408492,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.2938764206123366,
+   "b": 0.7046660010386765,
+   "neither": 0.0,
+   "captured": 0.998542421651013,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_b",
+  "b": "d1_S_b",
+  "p_forward": 0.0850799431563843,
+  "p_reverse": 0.6794675442271536,
+  "p_a_preferred": 0.382273743691769,
+  "measurable": false,
+  "captured": 0.992668472738799,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.08492646092680793,
+   "b": 0.9132695624380144,
+   "neither": 0.0,
+   "captured": 0.9981960233648223,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.674486009403551,
+   "b": 0.318182463335248,
+   "neither": 0.0,
+   "captured": 0.992668472738799,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.012419486406481014,
+  "p_reverse": 0.053403334131154334,
+  "p_a_preferred": 0.03291141026881767,
+  "measurable": true,
+  "captured": 0.9936189555307465,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.012410526885354404,
+   "b": 0.9868680647702607,
+   "neither": 0.0,
+   "captured": 0.9992785916556151,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.053062565081257035,
+   "b": 0.9405563904494895,
+   "neither": 0.0,
+   "captured": 0.9936189555307465,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_c",
+  "b": "d1_Lp_c",
+  "p_forward": 0.03302127223873902,
+  "p_reverse": 0.182491240697312,
+  "p_a_preferred": 0.10775625646802552,
+  "measurable": true,
+  "captured": 0.9972471847742277,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03298201865952579,
+   "b": 0.9658292452151841,
+   "neither": 0.0,
+   "captured": 0.9988112638747099,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.18198887603135036,
+   "b": 0.8152583087428773,
+   "neither": 0.0,
+   "captured": 0.9972471847742277,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.32066606689245436,
+  "p_reverse": 0.7057850278370112,
+  "p_a_preferred": 0.5132255473647328,
+  "measurable": false,
+  "captured": 0.9946125954144325,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.31927863244634364,
+   "b": 0.6763946408140413,
+   "neither": 0.0,
+   "captured": 0.995673273260385,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7019826783416172,
+   "b": 0.29262991707281527,
+   "neither": 0.0,
+   "captured": 0.9946125954144325,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_b",
+  "b": "d1_S_b",
+  "p_forward": 0.9627737724071981,
+  "p_reverse": 0.9466940791973227,
+  "p_a_preferred": 0.9547339258022605,
+  "measurable": true,
+  "captured": 0.9769745796967114,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9406055016405397,
+   "b": 0.036369078056171726,
+   "neither": 0.0,
+   "captured": 0.9769745796967114,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9421403284245391,
+   "b": 0.05304951075070468,
+   "neither": 0.0,
+   "captured": 0.9951898391752437,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.05339085901645902,
+  "p_reverse": 0.025938255725493537,
+  "p_a_preferred": 0.03966455737097628,
+  "measurable": true,
+  "captured": 0.9978455063534554,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.05332015503045045,
+   "b": 0.9453555735996738,
+   "neither": 0.0,
+   "captured": 0.9986757286301242,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.02588237191833051,
+   "b": 0.9719631344351248,
+   "neither": 0.0,
+   "captured": 0.9978455063534554,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_S_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.00464166094823462,
+  "p_reverse": 0.007577239839170537,
+  "p_a_preferred": 0.006109450393702578,
+  "measurable": true,
+  "captured": 0.9974590839737059,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.004639569209327012,
+   "b": 0.9949097863056631,
+   "neither": 0.0,
+   "captured": 0.9995493555149901,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.007557986709028114,
+   "b": 0.9899010972646778,
+   "neither": 0.0,
+   "captured": 0.9974590839737059,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.03730433282445692,
+  "p_reverse": 0.01798388775761117,
+  "p_a_preferred": 0.027644110291034044,
+  "measurable": true,
+  "captured": 0.9973256359236449,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03727194786620827,
+   "b": 0.9618599235332604,
+   "neither": 0.0,
+   "captured": 0.9991318713994687,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.01793579229423901,
+   "b": 0.9793898436294058,
+   "neither": 0.0,
+   "captured": 0.9973256359236449,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_a",
+  "b": "d1_S_a",
+  "p_forward": 0.24501016918703783,
+  "p_reverse": 0.22270013882530887,
+  "p_a_preferred": 0.23385515400617335,
+  "measurable": true,
+  "captured": 0.9899285590916265,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.2430135870932652,
+   "b": 0.7488374364769098,
+   "neither": 0.0,
+   "captured": 0.991851023570175,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.2204572275368432,
+   "b": 0.7694713315547833,
+   "neither": 0.0,
+   "captured": 0.9899285590916265,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.08488092882297621,
+  "p_reverse": 0.03305536808274644,
+  "p_a_preferred": 0.05896814845286133,
+  "measurable": true,
+  "captured": 0.9943299288089765,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.08439964791378973,
+   "b": 0.9099302808951868,
+   "neither": 0.0,
+   "captured": 0.9943299288089765,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.03292983045257707,
+   "b": 0.9632723709612716,
+   "neither": 0.0,
+   "captured": 0.9962022014138486,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_b",
+  "b": "d1_Lp_b",
+  "p_forward": 0.03732688975366456,
+  "p_reverse": 0.2941470682608422,
+  "p_a_preferred": 0.16573697900725337,
+  "measurable": true,
+  "captured": 0.9986570905116833,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03728463969851394,
+   "b": 0.961583467035547,
+   "neither": 0.0,
+   "captured": 0.9988681067340609,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.2937520553719142,
+   "b": 0.7049050351397691,
+   "neither": 0.0,
+   "captured": 0.9986570905116833,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_c",
+  "b": "d1_M_c",
+  "p_forward": 0.9149009584734676,
+  "p_reverse": 0.7987419756436716,
+  "p_a_preferred": 0.8568214670585697,
+  "measurable": true,
+  "captured": 0.9921980216536426,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9095733049107719,
+   "b": 0.0846034925738596,
+   "neither": 0.0,
+   "captured": 0.9941767974846315,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7925102080453729,
+   "b": 0.19968781360826973,
+   "neither": 0.0,
+   "captured": 0.9921980216536426,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_L_b",
+  "p_forward": 0.037271545475777226,
+  "p_reverse": 0.924170835418074,
+  "p_a_preferred": 0.48072119044692563,
+  "measurable": false,
+  "captured": 0.9978587416156511,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03719173746652958,
+   "b": 0.9606670041491215,
+   "neither": 0.0,
+   "captured": 0.9978587416156511,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.922417527191269,
+   "b": 0.07568530384428096,
+   "neither": 0.0,
+   "captured": 0.99810283103555,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_L_c",
+  "p_forward": 0.07578115524543336,
+  "p_reverse": 0.9150818726136927,
+  "p_a_preferred": 0.495431513929563,
+  "measurable": false,
+  "captured": 0.9950929299846923,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.0754888170717192,
+   "b": 0.9206535197299915,
+   "neither": 0.0,
+   "captured": 0.9961423368017107,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9105915017950384,
+   "b": 0.08450142818965393,
+   "neither": 0.0,
+   "captured": 0.9950929299846923,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_SN_a",
+  "p_forward": 0.10667120324029272,
+  "p_reverse": 0.9796706124865665,
+  "p_a_preferred": 0.5431709078634296,
+  "measurable": false,
+  "captured": 0.9988082141994047,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.10654407401493853,
+   "b": 0.8922641401844662,
+   "neither": 0.0,
+   "captured": 0.9988082141994047,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.979355069281425,
+   "b": 0.02032283959823346,
+   "neither": 0.0,
+   "captured": 0.9996779088796585,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_SN_b",
+  "p_forward": 0.14779509071684752,
+  "p_reverse": 0.9875760384685217,
+  "p_a_preferred": 0.5676855645926846,
+  "measurable": false,
+  "captured": 0.9934398436527602,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.1468255318143905,
+   "b": 0.8466143118383697,
+   "neither": 0.0,
+   "captured": 0.9934398436527602,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9859066605474968,
+   "b": 0.012402960326239963,
+   "neither": 0.0,
+   "captured": 0.9983096208737368,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_W_a",
+  "p_forward": 0.9212761971784119,
+  "p_reverse": 0.9953930265646003,
+  "p_a_preferred": 0.9583346118715061,
+  "measurable": true,
+  "captured": 0.9951647623656484,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9168216078381826,
+   "b": 0.07834315452746587,
+   "neither": 0.0,
+   "captured": 0.9951647623656484,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9952102924585924,
+   "b": 0.0046061276878912715,
+   "neither": 0.0,
+   "captured": 0.9998164201464836,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_W_b",
+  "p_forward": 0.20170580268647678,
+  "p_reverse": 0.9707000185714719,
+  "p_a_preferred": 0.5862029106289743,
+  "measurable": false,
+  "captured": 0.993666120229086,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.20042822238316493,
+   "b": 0.793237897845921,
+   "neither": 0.0,
+   "captured": 0.993666120229086,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9689472089640123,
+   "b": 0.02924707395148711,
+   "neither": 0.0,
+   "captured": 0.9981942829154994,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_W_c",
+  "p_forward": 0.9740617406960527,
+  "p_reverse": 0.970730565811609,
+  "p_a_preferred": 0.9723961532538308,
+  "measurable": true,
+  "captured": 0.9972581544043623,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.971391013802446,
+   "b": 0.025867140601916274,
+   "neither": 0.0,
+   "captured": 0.9972581544043623,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9683943446050071,
+   "b": 0.029198992527991623,
+   "neither": 0.0,
+   "captured": 0.9975933371329987,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_M_b",
+  "p_forward": 0.9959300979528136,
+  "p_reverse": 0.9914261743893046,
+  "p_a_preferred": 0.9936781361710592,
+  "measurable": true,
+  "captured": 0.9986747357758807,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9951978622736137,
+   "b": 0.004066909741304704,
+   "neither": 0.0,
+   "captured": 0.9992647720149185,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.990112272749531,
+   "b": 0.008562463026349786,
+   "neither": 0.0,
+   "captured": 0.9986747357758807,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_M_c",
+  "p_forward": 0.8929394414615686,
+  "p_reverse": 0.979704667819631,
+  "p_a_preferred": 0.9363220546405997,
+  "measurable": true,
+  "captured": 0.9965845733476367,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.8898896722942543,
+   "b": 0.10669490105338238,
+   "neither": 0.0,
+   "captured": 0.9965845733476367,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9788018146170951,
+   "b": 0.02027662888512364,
+   "neither": 0.0,
+   "captured": 0.9990784435022187,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_SS_a",
+  "p_forward": 0.9702539923931058,
+  "p_reverse": 0.9932772032806892,
+  "p_a_preferred": 0.9817655978368975,
+  "measurable": true,
+  "captured": 0.9953611887963713,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9657531673028272,
+   "b": 0.029608021493544006,
+   "neither": 0.0,
+   "captured": 0.9953611887963713,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9923557113988465,
+   "b": 0.006716559787083087,
+   "neither": 0.0,
+   "captured": 0.9990722711859296,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_SS_b",
+  "p_forward": 0.997528062046737,
+  "p_reverse": 0.9902940352584483,
+  "p_a_preferred": 0.9939110486525926,
+  "measurable": true,
+  "captured": 0.9986015882845612,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9969341999458027,
+   "b": 0.0024704663252233957,
+   "neither": 0.0,
+   "captured": 0.9994046662710261,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9889091964778137,
+   "b": 0.00969239180674747,
+   "neither": 0.0,
+   "captured": 0.9986015882845612,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_SS_c",
+  "p_forward": 0.7549149868676284,
+  "p_reverse": 0.982064849272234,
+  "p_a_preferred": 0.8684899180699313,
+  "measurable": true,
+  "captured": 0.98266358931297,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7418274706214973,
+   "b": 0.24083611869147276,
+   "neither": 0.0,
+   "captured": 0.98266358931297,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9808176702041901,
+   "b": 0.01791237387694345,
+   "neither": 0.0,
+   "captured": 0.9987300440811335,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_Lp_a",
+  "p_forward": 0.43689473953885083,
+  "p_reverse": 0.9770261403703876,
+  "p_a_preferred": 0.7069604399546192,
+  "measurable": false,
+  "captured": 0.9978364740614936,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.4359495064374615,
+   "b": 0.5618869676240321,
+   "neither": 0.0,
+   "captured": 0.9978364740614936,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.976457547840221,
+   "b": 0.022960489705886877,
+   "neither": 0.0,
+   "captured": 0.9994180375461079,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_Lp_b",
+  "p_forward": 0.754798734102912,
+  "p_reverse": 0.9047045729827214,
+  "p_a_preferred": 0.8297516535428167,
+  "measurable": true,
+  "captured": 0.9973683484258296,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7533685832558884,
+   "b": 0.24473667211563344,
+   "neither": 0.0,
+   "captured": 0.9981052553715218,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9023237057690723,
+   "b": 0.09504464265675723,
+   "neither": 0.0,
+   "captured": 0.9973683484258296,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_Lp_c",
+  "p_forward": 0.16451646900901745,
+  "p_reverse": 0.9241509164391262,
+  "p_a_preferred": 0.5443336927240718,
+  "measurable": false,
+  "captured": 0.9982609695173548,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.1642303698545136,
+   "b": 0.8340305996628411,
+   "neither": 0.0,
+   "captured": 0.9982609695173548,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9232027447058074,
+   "b": 0.0757712629844385,
+   "neither": 0.0,
+   "captured": 0.9989740076902459,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_S_a",
+  "p_forward": 0.9706877659627745,
+  "p_reverse": 0.9959313095450258,
+  "p_a_preferred": 0.9833095377539002,
+  "measurable": true,
+  "captured": 0.9967494095660682,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9675324575964013,
+   "b": 0.02921695196966691,
+   "neither": 0.0,
+   "captured": 0.9967494095660682,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9951480157846346,
+   "b": 0.004065490455319832,
+   "neither": 0.0,
+   "captured": 0.9992135062399544,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_S_b",
+  "p_forward": 0.9707136942184694,
+  "p_reverse": 0.9933077869335546,
+  "p_a_preferred": 0.982010740576012,
+  "measurable": true,
+  "captured": 0.9963549352604149,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9671753799594413,
+   "b": 0.029179555300973603,
+   "neither": 0.0,
+   "captured": 0.9963549352604149,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9926207565090913,
+   "b": 0.006687584336011421,
+   "neither": 0.0,
+   "captured": 0.9993083408451028,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_S_c",
+  "p_forward": 0.6224593241981982,
+  "p_reverse": 0.9859778482986427,
+  "p_a_preferred": 0.8042185862484204,
+  "measurable": true,
+  "captured": 0.9896827208132104,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.616037237568025,
+   "b": 0.3736454832451854,
+   "neither": 0.0,
+   "captured": 0.9896827208132104,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9831805781169715,
+   "b": 0.01398237013131005,
+   "neither": 0.0,
+   "captured": 0.9971629482482816,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.04749646787257397,
+  "p_reverse": 0.5930012425279683,
+  "p_a_preferred": 0.32024885520027113,
+  "measurable": false,
+  "captured": 0.9977361197065404,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.04738894155494831,
+   "b": 0.9503471781515921,
+   "neither": 0.0,
+   "captured": 0.9977361197065404,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.5920693365756425,
+   "b": 0.4063591558363581,
+   "neither": 0.0,
+   "captured": 0.9984284924120006,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.03313418888296314,
+  "p_reverse": 0.754955053616738,
+  "p_a_preferred": 0.39404462124985057,
+  "measurable": false,
+  "captured": 0.9958617448050056,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03308559263427553,
+   "b": 0.9654477576505538,
+   "neither": 0.0,
+   "captured": 0.9985333502848294,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7518308569441212,
+   "b": 0.24403088786088428,
+   "neither": 0.0,
+   "captured": 0.9958617448050056,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.06748931006611908,
+  "p_reverse": 0.7314879728547482,
+  "p_a_preferred": 0.3994886414604336,
+  "measurable": false,
+  "captured": 0.9920612897562253,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.06727816520752887,
+   "b": 0.9295932673440359,
+   "neither": 0.0,
+   "captured": 0.9968714325515647,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7256809017914483,
+   "b": 0.266380387964777,
+   "neither": 0.0,
+   "captured": 0.9920612897562253,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.16396924582927827,
+  "p_reverse": 0.9238943577458227,
+  "p_a_preferred": 0.5439318017875505,
+  "measurable": false,
+  "captured": 0.99633933735062,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.163369009735424,
+   "b": 0.832970327615196,
+   "neither": 0.0,
+   "captured": 0.99633933735062,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9215720319090798,
+   "b": 0.07591434105415697,
+   "neither": 0.0,
+   "captured": 0.9974863729632367,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_SN_a",
+  "p_forward": 0.5924096313786464,
+  "p_reverse": 0.985949005481112,
+  "p_a_preferred": 0.7891793184298792,
+  "measurable": true,
+  "captured": 0.993838975734644,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.588759781264692,
+   "b": 0.40507919446995205,
+   "neither": 0.0,
+   "captured": 0.993838975734644,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9840822225970053,
+   "b": 0.014024390550602882,
+   "neither": 0.0,
+   "captured": 0.9981066131476082,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_SN_b",
+  "p_forward": 0.6224198233460272,
+  "p_reverse": 0.9770254205245703,
+  "p_a_preferred": 0.7997226219352987,
+  "measurable": true,
+  "captured": 0.9966706054114941,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.6203475421544001,
+   "b": 0.37632306325709397,
+   "neither": 0.0,
+   "captured": 0.9966706054114941,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9765980539547705,
+   "b": 0.022964530026339906,
+   "neither": 0.0,
+   "captured": 0.9995625839811104,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_SN_c",
+  "p_forward": 0.892280517983064,
+  "p_reverse": 0.93254214142886,
+  "p_a_preferred": 0.912411329705962,
+  "measurable": true,
+  "captured": 0.9923491032080562,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.8854537718305134,
+   "b": 0.10689533137754283,
+   "neither": 0.0,
+   "captured": 0.9923491032080562,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9256390387570328,
+   "b": 0.06695850470491714,
+   "neither": 0.0,
+   "captured": 0.99259754346195,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_W_a",
+  "p_forward": 0.9784762806150815,
+  "p_reverse": 0.9914255517224765,
+  "p_a_preferred": 0.9849509161687791,
+  "measurable": true,
+  "captured": 0.9926178531873957,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.97125302505893,
+   "b": 0.02136482812846571,
+   "neither": 0.0,
+   "captured": 0.9926178531873957,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9911530864394864,
+   "b": 0.008572091832833986,
+   "neither": 0.0,
+   "captured": 0.9997251782723204,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_W_b",
+  "p_forward": 0.8670461816202722,
+  "p_reverse": 0.9399419571126381,
+  "p_a_preferred": 0.9034940693664552,
+  "measurable": true,
+  "captured": 0.9977352773760761,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.8651603306492127,
+   "b": 0.1326646399105614,
+   "neither": 0.0,
+   "captured": 0.9978249705597741,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9378132492971898,
+   "b": 0.059922028078886316,
+   "neither": 0.0,
+   "captured": 0.9977352773760761,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_W_c",
+  "p_forward": 0.9627423534806722,
+  "p_reverse": 0.9739967056854153,
+  "p_a_preferred": 0.9683695295830437,
+  "measurable": true,
+  "captured": 0.9931347303715287,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9561328676412783,
+   "b": 0.03700186273025037,
+   "neither": 0.0,
+   "captured": 0.9931347303715287,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9727981507915455,
+   "b": 0.025971295874060663,
+   "neither": 0.0,
+   "captured": 0.9987694466656062,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_M_a",
+  "p_forward": 0.989013616069038,
+  "p_reverse": 0.9940967178612056,
+  "p_a_preferred": 0.9915551669651218,
+  "measurable": true,
+  "captured": 0.9983917860589618,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.988177564192897,
+   "b": 0.010977096711101503,
+   "neither": 0.0,
+   "captured": 0.9991546609039985,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9924979976608009,
+   "b": 0.005893788398160941,
+   "neither": 0.0,
+   "captured": 0.9983917860589618,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_M_b",
+  "p_forward": 0.9988306090635832,
+  "p_reverse": 0.9940899496501372,
+  "p_a_preferred": 0.9964602793568602,
+  "measurable": true,
+  "captured": 0.9993970142055503,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9982283283952563,
+   "b": 0.0011686858102939973,
+   "neither": 0.0,
+   "captured": 0.9993970142055503,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9938949448864196,
+   "b": 0.0059088910101346,
+   "neither": 0.0,
+   "captured": 0.9998038358965542,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_M_c",
+  "p_forward": 0.9933093783341447,
+  "p_reverse": 0.9875731375022666,
+  "p_a_preferred": 0.9904412579182056,
+  "measurable": true,
+  "captured": 0.9977907508959412,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9911149104800068,
+   "b": 0.006675840415934338,
+   "neither": 0.0,
+   "captured": 0.9977907508959412,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9869006202039338,
+   "b": 0.012418400056141591,
+   "neither": 0.0,
+   "captured": 0.9993190202600754,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_SS_a",
+  "p_forward": 0.9627871292518773,
+  "p_reverse": 0.9770444033556662,
+  "p_a_preferred": 0.9699157663037717,
+  "measurable": true,
+  "captured": 0.9930638624939755,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9561091053343557,
+   "b": 0.036954757159619836,
+   "neither": 0.0,
+   "captured": 0.9930638624939755,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9754944344923027,
+   "b": 0.022919180223630216,
+   "neither": 0.0,
+   "captured": 0.9984136147159329,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_SS_b",
+  "p_forward": 0.9978173883426634,
+  "p_reverse": 0.9933100099176648,
+  "p_a_preferred": 0.9955636991301642,
+  "measurable": true,
+  "captured": 0.9989832902158534,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9973688958277979,
+   "b": 0.0021816306311462095,
+   "neither": 0.0,
+   "captured": 0.999550526458944,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9923001019118908,
+   "b": 0.006683188303962682,
+   "neither": 0.0,
+   "captured": 0.9989832902158534,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_SS_c",
+  "p_forward": 0.9525808495493915,
+  "p_reverse": 0.9577732970693837,
+  "p_a_preferred": 0.9551770733093876,
+  "measurable": true,
+  "captured": 0.9951378005744287,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9479492114899022,
+   "b": 0.047188589084526486,
+   "neither": 0.0,
+   "captured": 0.9951378005744287,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9552624275444838,
+   "b": 0.042116002682603675,
+   "neither": 0.0,
+   "captured": 0.9973784302270874,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_Lp_a",
+  "p_forward": 0.40707648207765595,
+  "p_reverse": 0.6513548714339144,
+  "p_a_preferred": 0.5292156767557852,
+  "measurable": false,
+  "captured": 0.9973339783387551,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.40599120735865357,
+   "b": 0.5913427709801016,
+   "neither": 0.0,
+   "captured": 0.9973339783387551,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.650027683731665,
+   "b": 0.34793473620183807,
+   "neither": 0.0,
+   "captured": 0.9979624199335031,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_Lp_b",
+  "p_forward": 0.06009178346177957,
+  "p_reverse": 0.6226845755774448,
+  "p_a_preferred": 0.3413881795196122,
+  "measurable": false,
+  "captured": 0.9959547552676138,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.060018999770325314,
+   "b": 0.9387697915209076,
+   "neither": 0.0,
+   "captured": 0.9987887912912329,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.620165664078152,
+   "b": 0.37578909118946174,
+   "neither": 0.0,
+   "captured": 0.9959547552676138,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_Lp_c",
+  "p_forward": 0.4071774462839174,
+  "p_reverse": 0.4691157408228259,
+  "p_a_preferred": 0.43814659355337165,
+  "measurable": true,
+  "captured": 0.997834670741278,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.4062957730459871,
+   "b": 0.5915388976952909,
+   "neither": 0.0,
+   "captured": 0.997834670741278,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.4686856810413645,
+   "b": 0.5303975733795869,
+   "neither": 0.0,
+   "captured": 0.9990832544209514,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_S_a",
+  "p_forward": 0.9796676458410987,
+  "p_reverse": 0.9980735577333396,
+  "p_a_preferred": 0.9888706017872191,
+  "measurable": true,
+  "captured": 0.9884247743525646,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9683277717809962,
+   "b": 0.020097002571568448,
+   "neither": 0.0,
+   "captured": 0.9884247743525646,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.99766094362584,
+   "b": 0.0019256458551630393,
+   "neither": 0.0,
+   "captured": 0.9995865894810031,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_S_b",
+  "p_forward": 0.9947803736278127,
+  "p_reverse": 0.9941334568897228,
+  "p_a_preferred": 0.9944569152587677,
+  "measurable": true,
+  "captured": 0.9969714375829709,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9937850626522031,
+   "b": 0.00521440396173927,
+   "neither": 0.0,
+   "captured": 0.9989994666139423,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9911226616646753,
+   "b": 0.005848775918295625,
+   "neither": 0.0,
+   "captured": 0.9969714375829709,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.10667883191633928,
+  "p_reverse": 0.3776087655565691,
+  "p_a_preferred": 0.2421437987364542,
+  "measurable": true,
+  "captured": 0.9979653483195825,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.10646177765171573,
+   "b": 0.8915035706678668,
+   "neither": 0.0,
+   "captured": 0.9979653483195825,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.3771378475869643,
+   "b": 0.6216150469097759,
+   "neither": 0.0,
+   "captured": 0.9987528944967401,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.11919454896417772,
+  "p_reverse": 0.05335727507666462,
+  "p_a_preferred": 0.08627591202042117,
+  "measurable": true,
+  "captured": 0.9951649743157345,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.11905277799165266,
+   "b": 0.8797578138201619,
+   "neither": 0.0,
+   "captured": 0.9988105918118146,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.05309929128122653,
+   "b": 0.942065683034508,
+   "neither": 0.0,
+   "captured": 0.9951649743157345,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.14792447271119294,
+  "p_reverse": 0.5319584283195727,
+  "p_a_preferred": 0.3399414505153828,
+  "measurable": false,
+  "captured": 0.9914437617812931,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.14752754682222372,
+   "b": 0.8497891521546646,
+   "neither": 0.0,
+   "captured": 0.9973166989768882,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.5274068652844216,
+   "b": 0.4640368964968715,
+   "neither": 0.0,
+   "captured": 0.9914437617812931,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.6790180262815221,
+  "p_reverse": 0.817535074297184,
+  "p_a_preferred": 0.748276550289353,
+  "measurable": true,
+  "captured": 0.9959253550642202,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.6762512689194309,
+   "b": 0.31967408614478926,
+   "neither": 0.0,
+   "captured": 0.9959253550642202,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.8163004894599988,
+   "b": 0.18218937981166936,
+   "neither": 0.0,
+   "captured": 0.9984898692716682,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_a",
+  "b": "d1_W_a",
+  "p_forward": 0.932453315430128,
+  "p_reverse": 0.9324843381532008,
+  "p_a_preferred": 0.9324688267916643,
+  "measurable": true,
+  "captured": 0.9948807330126166,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9276798379551703,
+   "b": 0.06720089505744635,
+   "neither": 0.0,
+   "captured": 0.9948807330126166,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9311695412033536,
+   "b": 0.06742046519562665,
+   "neither": 0.0,
+   "captured": 0.9985900063989802,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_b",
+  "b": "d1_W_b",
+  "p_forward": 0.2942149721629888,
+  "p_reverse": 0.6794336188034416,
+  "p_a_preferred": 0.48682429548321515,
+  "measurable": false,
+  "captured": 0.988233482941707,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.2907530866742278,
+   "b": 0.6974803962674793,
+   "neither": 0.0,
+   "captured": 0.988233482941707,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.6746836208324154,
+   "b": 0.31832526504021563,
+   "neither": 0.0,
+   "captured": 0.993008885872631,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_c",
+  "b": "d1_W_c",
+  "p_forward": 0.3482820755795524,
+  "p_reverse": 0.755598356049597,
+  "p_a_preferred": 0.5519402158145748,
+  "measurable": false,
+  "captured": 0.9862035154451735,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.34347700730309616,
+   "b": 0.6427265081420773,
+   "neither": 0.0,
+   "captured": 0.9862035154451735,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7533726280847287,
+   "b": 0.2436817223554909,
+   "neither": 0.0,
+   "captured": 0.9970543504402196,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_a",
+  "b": "d1_M_a",
+  "p_forward": 0.9466015236321641,
+  "p_reverse": 0.939878691875869,
+  "p_a_preferred": 0.9432401077540166,
+  "measurable": true,
+  "captured": 0.9976190029794678,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9444889116457487,
+   "b": 0.05327930239820381,
+   "neither": 0.0,
+   "captured": 0.9977682140439524,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9376408435108509,
+   "b": 0.059978159468616996,
+   "neither": 0.0,
+   "captured": 0.9976190029794678,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_b",
+  "b": "d1_M_b",
+  "p_forward": 0.9840949387553363,
+  "p_reverse": 0.989017188549718,
+  "p_a_preferred": 0.9865560636525271,
+  "measurable": true,
+  "captured": 0.9983184162196949,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9830807924548047,
+   "b": 0.015888670489680894,
+   "neither": 0.0,
+   "captured": 0.9989694629444856,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9873540732870097,
+   "b": 0.01096434293268511,
+   "neither": 0.0,
+   "captured": 0.9983184162196949,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_c",
+  "b": "d1_M_c",
+  "p_forward": 0.729288876786946,
+  "p_reverse": 0.9399716440811301,
+  "p_a_preferred": 0.8346302604340381,
+  "measurable": true,
+  "captured": 0.9845995824478013,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.718057523568253,
+   "b": 0.26654205887954824,
+   "neither": 0.0,
+   "captured": 0.9845995824478013,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9379128081946735,
+   "b": 0.05989687478946671,
+   "neither": 0.0,
+   "captured": 0.9978096829841402,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_a",
+  "b": "d1_SS_a",
+  "p_forward": 0.9669229130459315,
+  "p_reverse": 0.9740586686802305,
+  "p_a_preferred": 0.970490790863081,
+  "measurable": true,
+  "captured": 0.9969739564711775,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9639969622220386,
+   "b": 0.03297699424913886,
+   "neither": 0.0,
+   "captured": 0.9969739564711775,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9717720773373617,
+   "b": 0.02588043434762034,
+   "neither": 0.0,
+   "captured": 0.997652511684982,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_b",
+  "b": "d1_SS_b",
+  "p_forward": 0.9796676472138702,
+  "p_reverse": 0.9875751367312792,
+  "p_a_preferred": 0.9836213919725747,
+  "measurable": true,
+  "captured": 0.9967449570232555,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9764787869192629,
+   "b": 0.02026617010399258,
+   "neither": 0.0,
+   "captured": 0.9967449570232555,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9864050532241029,
+   "b": 0.012410142234291285,
+   "neither": 0.0,
+   "captured": 0.9988151954583941,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_c",
+  "b": "d1_SS_c",
+  "p_forward": 0.3481171231179975,
+  "p_reverse": 0.9325604401662213,
+  "p_a_preferred": 0.6403387816421093,
+  "measurable": false,
+  "captured": 0.9850305579484058,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.34290600401631494,
+   "b": 0.6421245539320909,
+   "neither": 0.0,
+   "captured": 0.9850305579484058,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9302077831116388,
+   "b": 0.06726942377678216,
+   "neither": 0.0,
+   "captured": 0.9974772068884209,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_a",
+  "b": "d1_Lp_a",
+  "p_forward": 0.32024737474595855,
+  "p_reverse": 0.9525902484545551,
+  "p_a_preferred": 0.6364188116002568,
+  "measurable": false,
+  "captured": 0.989403201279027,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.3168537777748556,
+   "b": 0.6725494235041714,
+   "neither": 0.0,
+   "captured": 0.989403201279027,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9518860313137092,
+   "b": 0.047374703150045445,
+   "neither": 0.0,
+   "captured": 0.9992607344637546,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_b",
+  "b": "d1_Lp_b",
+  "p_forward": 0.09532549024012932,
+  "p_reverse": 0.7983470631168681,
+  "p_a_preferred": 0.4468362766784987,
+  "measurable": false,
+  "captured": 0.9968389316999763,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.09502415985474702,
+   "b": 0.9018147718452293,
+   "neither": 0.0,
+   "captured": 0.9968389316999763,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7964095099806301,
+   "b": 0.20116353409286655,
+   "neither": 0.0,
+   "captured": 0.9975730440734967,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_c",
+  "b": "d1_Lp_c",
+  "p_forward": 0.05334105599593286,
+  "p_reverse": 0.5321050483794739,
+  "p_a_preferred": 0.2927230521877034,
+  "measurable": false,
+  "captured": 0.9977450793138519,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.05326073333521723,
+   "b": 0.9452334348207008,
+   "neither": 0.0,
+   "captured": 0.998494168155918,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.5309051936986792,
+   "b": 0.46683988561517276,
+   "neither": 0.0,
+   "captured": 0.9977450793138519,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_a",
+  "b": "d1_S_a",
+  "p_forward": 0.9924241098879775,
+  "p_reverse": 0.9627003075560074,
+  "p_a_preferred": 0.9775622087219924,
+  "measurable": true,
+  "captured": 0.9981284976862274,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9911208200313991,
+   "b": 0.007565941159111069,
+   "neither": 0.0,
+   "captured": 0.9986867611905101,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9608986117029468,
+   "b": 0.037229885983280565,
+   "neither": 0.0,
+   "captured": 0.9981284976862274,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_c",
+  "b": "d1_S_c",
+  "p_forward": 0.2686577458809903,
+  "p_reverse": 0.9243938072839306,
+  "p_a_preferred": 0.5965257765824604,
+  "measurable": false,
+  "captured": 0.9962382790122297,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.2678261396103908,
+   "b": 0.7290784489103218,
+   "neither": 0.0,
+   "captured": 0.9969045885207126,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9209164956981057,
+   "b": 0.075321783314124,
+   "neither": 0.0,
+   "captured": 0.9962382790122297,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.10665437134610518,
+  "p_reverse": 0.5000787721145082,
+  "p_a_preferred": 0.30336657173030673,
+  "measurable": false,
+  "captured": 0.9973449449938225,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.10651331652833818,
+   "b": 0.8921641421075647,
+   "neither": 0.0,
+   "captured": 0.9986774586359028,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.49875103546712257,
+   "b": 0.4985939095266999,
+   "neither": 0.0,
+   "captured": 0.9973449449938225,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.09518324463342924,
+  "p_reverse": 0.042081336546134177,
+  "p_a_preferred": 0.06863229058978171,
+  "measurable": true,
+  "captured": 0.995585670489084,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.09476307442769916,
+   "b": 0.9008225960613848,
+   "neither": 0.0,
+   "captured": 0.995585670489084,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.04203427010177563,
+   "b": 0.95684726626989,
+   "neither": 0.0,
+   "captured": 0.9988815363716657,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.02296884204167544,
+  "p_reverse": 0.09607257300447351,
+  "p_a_preferred": 0.05952070752307448,
+  "measurable": true,
+  "captured": 0.9977158490725906,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.022943547813536292,
+   "b": 0.9759552112926801,
+   "neither": 0.0,
+   "captured": 0.9988987591062164,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.09585312874774674,
+   "b": 0.9018627203248438,
+   "neither": 0.0,
+   "captured": 0.9977158490725906,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.05386430915465892,
+  "p_reverse": 0.46884749330340747,
+  "p_a_preferred": 0.2613559012290332,
+  "measurable": true,
+  "captured": 0.9967592845758992,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.05370715811379706,
+   "b": 0.9433753062614418,
+   "neither": 0.0,
+   "captured": 0.997082464375239,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.4673280920003081,
+   "b": 0.5294311925755911,
+   "neither": 0.0,
+   "captured": 0.9967592845758992,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SN_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.025943377814593927,
+  "p_reverse": 0.1480272160114997,
+  "p_a_preferred": 0.08698529691304682,
+  "measurable": true,
+  "captured": 0.9985734806721002,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.0259063690847104,
+   "b": 0.9726671115873897,
+   "neither": 0.0,
+   "captured": 0.9985734806721002,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.14787089808416867,
+   "b": 0.8510730938955299,
+   "neither": 0.0,
+   "captured": 0.9989439919796985,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_a",
+  "b": "d1_M_a",
+  "p_forward": 0.67905316561385,
+  "p_reverse": 0.4687906266262437,
+  "p_a_preferred": 0.5739218961200468,
+  "measurable": false,
+  "captured": 0.9962744464804112,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.6765233167027094,
+   "b": 0.31975112977770176,
+   "neither": 0.0,
+   "captured": 0.9962744464804112,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.46754796183536945,
+   "b": 0.5298012496882964,
+   "neither": 0.0,
+   "captured": 0.997349211523666,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_b",
+  "b": "d1_M_b",
+  "p_forward": 0.9914282630312814,
+  "p_reverse": 0.9859398660812625,
+  "p_a_preferred": 0.988684064556272,
+  "measurable": true,
+  "captured": 0.997577182781411,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9890262135646135,
+   "b": 0.00855096921679752,
+   "neither": 0.0,
+   "captured": 0.997577182781411,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9854195088698948,
+   "b": 0.014052713291649453,
+   "neither": 0.0,
+   "captured": 0.9994722221615443,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_a",
+  "b": "d1_SS_a",
+  "p_forward": 0.6498938126312346,
+  "p_reverse": 0.6512511716922433,
+  "p_a_preferred": 0.650572492161739,
+  "measurable": true,
+  "captured": 0.9933919655299933,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.6455992919155233,
+   "b": 0.34779267361446997,
+   "neither": 0.0,
+   "captured": 0.9933919655299933,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.6480915962992785,
+   "b": 0.3470568571234541,
+   "neither": 0.0,
+   "captured": 0.9951484534227326,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_b",
+  "b": "d1_SS_b",
+  "p_forward": 0.9890150081957603,
+  "p_reverse": 0.9914229014617847,
+  "p_a_preferred": 0.9902189548287725,
+  "measurable": true,
+  "captured": 0.9980274610360681,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9870641375561807,
+   "b": 0.01096332347988737,
+   "neither": 0.0,
+   "captured": 0.9980274610360681,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9911503873964052,
+   "b": 0.008574740936844174,
+   "neither": 0.0,
+   "captured": 0.9997251283332493,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_c",
+  "b": "d1_SS_c",
+  "p_forward": 0.4375615482871053,
+  "p_reverse": 0.43851485686217684,
+  "p_a_preferred": 0.4380382025746411,
+  "measurable": true,
+  "captured": 0.972934987964178,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.42571893971630187,
+   "b": 0.5472160482478762,
+   "neither": 0.0,
+   "captured": 0.972934987964178,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.4354445123338188,
+   "b": 0.5575537989427293,
+   "neither": 0.0,
+   "captured": 0.9929983112765481,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_a",
+  "b": "d1_Lp_a",
+  "p_forward": 0.07581143986930494,
+  "p_reverse": 0.07582647055245943,
+  "p_a_preferred": 0.0758189552108822,
+  "measurable": true,
+  "captured": 0.9977488039158784,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.07565991909311887,
+   "b": 0.9223414277161848,
+   "neither": 0.0,
+   "captured": 0.9980013468093036,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.07565577029887897,
+   "b": 0.9220930336169995,
+   "neither": 0.0,
+   "captured": 0.9977488039158784,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_c",
+  "b": "d1_Lp_c",
+  "p_forward": 0.09569697880283802,
+  "p_reverse": 0.14836018379868407,
+  "p_a_preferred": 0.12202858130076105,
+  "measurable": true,
+  "captured": 0.9972099272066455,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.09551481473364101,
+   "b": 0.9025816343760815,
+   "neither": 0.0,
+   "captured": 0.9980964491097225,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.1479462480862503,
+   "b": 0.8492636791203951,
+   "neither": 0.0,
+   "captured": 0.9972099272066455,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_b",
+  "b": "d1_S_b",
+  "p_forward": 0.9626763567654021,
+  "p_reverse": 0.939979410329167,
+  "p_a_preferred": 0.9513278835472845,
+  "measurable": true,
+  "captured": 0.9940112267493381,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.960017059950727,
+   "b": 0.03722054041622261,
+   "neither": 0.0,
+   "captured": 0.9972376003669495,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9343500867804146,
+   "b": 0.059661139968923416,
+   "neither": 0.0,
+   "captured": 0.9940112267493381,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_c",
+  "b": "d1_S_c",
+  "p_forward": 0.6224593312018545,
+  "p_reverse": 0.4075988207389096,
+  "p_a_preferred": 0.515029075970382,
+  "measurable": false,
+  "captured": 0.9896537166715531,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.6160191906008046,
+   "b": 0.3736345260707485,
+   "neither": 0.0,
+   "captured": 0.9896537166715531,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.4056957291285484,
+   "b": 0.5896352396732966,
+   "neither": 0.0,
+   "captured": 0.995330968801845,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.005936033574613914,
+  "p_reverse": 0.0059078215221863295,
+  "p_a_preferred": 0.005921927548400122,
+  "measurable": true,
+  "captured": 0.999022776272902,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.005933695657853604,
+   "b": 0.9936724526681416,
+   "neither": 0.0,
+   "captured": 0.9996061483259953,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.005902048258819389,
+   "b": 0.9931207280140827,
+   "neither": 0.0,
+   "captured": 0.999022776272902,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.022973581776698934,
+  "p_reverse": 0.026104257889937206,
+  "p_a_preferred": 0.02453891983331807,
+  "measurable": true,
+  "captured": 0.9975519012769529,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.022918781328939535,
+   "b": 0.974695850629975,
+   "neither": 0.0,
+   "captured": 0.9976146319589145,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.02604035208953076,
+   "b": 0.9715115491874222,
+   "neither": 0.0,
+   "captured": 0.9975519012769529,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.22241893525606068,
+  "p_reverse": 0.592704850972248,
+  "p_a_preferred": 0.40756189311415436,
+  "measurable": false,
+  "captured": 0.9958311791232267,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.22149171055537553,
+   "b": 0.7743394685678512,
+   "neither": 0.0,
+   "captured": 0.9958311791232267,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.5914005156041514,
+   "b": 0.4063988353443737,
+   "neither": 0.0,
+   "captured": 0.9977993509485251,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_W_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.02600551935859745,
+  "p_reverse": 0.026036059457843014,
+  "p_a_preferred": 0.02602078940822023,
+  "measurable": true,
+  "captured": 0.9981533498078232,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.025995147096443884,
+   "b": 0.9736060044125668,
+   "neither": 0.0,
+   "captured": 0.9996011515090107,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.02598797996364166,
+   "b": 0.9721653698441816,
+   "neither": 0.0,
+   "captured": 0.9981533498078232,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_a",
+  "b": "d1_SS_a",
+  "p_forward": 0.7310585786300049,
+  "p_reverse": 0.40751584643673805,
+  "p_a_preferred": 0.5692872125333714,
+  "measurable": false,
+  "captured": 0.993612214789197,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7263887334532015,
+   "b": 0.26722348133599555,
+   "neither": 0.0,
+   "captured": 0.993612214789197,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.4061207360056035,
+   "b": 0.5904558132419088,
+   "neither": 0.0,
+   "captured": 0.9965765492475123,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_b",
+  "b": "d1_SS_b",
+  "p_forward": 0.7773798207597659,
+  "p_reverse": 0.6513548714339145,
+  "p_a_preferred": 0.7143673460968402,
+  "measurable": true,
+  "captured": 0.9944633428326548,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7750002290495818,
+   "b": 0.22193872968508363,
+   "neither": 0.0,
+   "captured": 0.9969389587346654,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.6477485428165046,
+   "b": 0.3467148000161502,
+   "neither": 0.0,
+   "captured": 0.9944633428326548,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_c",
+  "b": "d1_SS_c",
+  "p_forward": 0.2940580630435593,
+  "p_reverse": 0.24490555407615838,
+  "p_a_preferred": 0.2694818085598588,
+  "measurable": true,
+  "captured": 0.9894779429807603,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.2916351792042175,
+   "b": 0.7001253465427576,
+   "neither": 0.0,
+   "captured": 0.991760525746975,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.24232864387184055,
+   "b": 0.7471492991089198,
+   "neither": 0.0,
+   "captured": 0.9894779429807603,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_b",
+  "b": "d1_Lp_b",
+  "p_forward": 0.04739779065802039,
+  "p_reverse": 0.06021948433362574,
+  "p_a_preferred": 0.05380863749582307,
+  "measurable": true,
+  "captured": 0.9968303121101406,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.04726786007274656,
+   "b": 0.9499908605665489,
+   "neither": 0.0,
+   "captured": 0.9972587206392954,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.06002860736339987,
+   "b": 0.9368017047467407,
+   "neither": 0.0,
+   "captured": 0.9968303121101406,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_a",
+  "b": "d1_S_a",
+  "p_forward": 0.7303501781015838,
+  "p_reverse": 0.14811359152603293,
+  "p_a_preferred": 0.43923188481380837,
+  "measurable": false,
+  "captured": 0.9837282919753398,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7184661332477562,
+   "b": 0.26526215872758363,
+   "neither": 0.0,
+   "captured": 0.9837282919753398,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.14778207955325792,
+   "b": 0.8499796925477396,
+   "neither": 0.0,
+   "captured": 0.9977617721009976,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_c",
+  "b": "d1_S_c",
+  "p_forward": 0.3478280410907499,
+  "p_reverse": 0.3489462901194678,
+  "p_a_preferred": 0.34838716560510885,
+  "measurable": true,
+  "captured": 0.9910124098743816,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.34470190522322947,
+   "b": 0.646310504651152,
+   "neither": 0.0,
+   "captured": 0.9910124098743816,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.34703557696353926,
+   "b": 0.6474887575543191,
+   "neither": 0.0,
+   "captured": 0.9945243345178584,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.006692850490880902,
+  "p_reverse": 0.01798389407265802,
+  "p_a_preferred": 0.01233837228176946,
+  "measurable": true,
+  "captured": 0.9987148932329298,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.00668987435009786,
+   "b": 0.9928654510247783,
+   "neither": 0.0,
+   "captured": 0.9995553253748761,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.017960782848686973,
+   "b": 0.9807541103842429,
+   "neither": 0.0,
+   "captured": 0.9987148932329298,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.00406931255802669,
+  "p_reverse": 0.0059073877997615765,
+  "p_a_preferred": 0.004988350178894133,
+  "measurable": true,
+  "captured": 0.9982508616967839,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.004067573020146259,
+   "b": 0.9955049498923542,
+   "neither": 0.0,
+   "captured": 0.9995725229125004,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.005897054961489062,
+   "b": 0.9923538067352948,
+   "neither": 0.0,
+   "captured": 0.9982508616967839,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.01406047887090559,
+  "p_reverse": 0.02595152625936337,
+  "p_a_preferred": 0.02000600256513448,
+  "measurable": true,
+  "captured": 0.9984558377468233,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.014054368500521924,
+   "b": 0.985511053812632,
+   "neither": 0.0,
+   "captured": 0.9995654223131539,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.02591145289210134,
+   "b": 0.9725443848547219,
+   "neither": 0.0,
+   "captured": 0.9984558377468233,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.03731406301320797,
+  "p_reverse": 0.025955342917026687,
+  "p_a_preferred": 0.03163470296511733,
+  "measurable": true,
+  "captured": 0.9978218837281447,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03723278864538987,
+   "b": 0.9605890950827548,
+   "neither": 0.0,
+   "captured": 0.9978218837281447,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.025903151296957756,
+   "b": 0.9720860249494986,
+   "neither": 0.0,
+   "captured": 0.9979891762464563,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_a",
+  "b": "d1_Lp_a",
+  "p_forward": 0.11917242239469243,
+  "p_reverse": 0.29450084952479205,
+  "p_a_preferred": 0.20683663595974225,
+  "measurable": true,
+  "captured": 0.9959156260207559,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.11873872180987564,
+   "b": 0.8776220084991853,
+   "neither": 0.0,
+   "captured": 0.9963607303090609,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.2932979979181277,
+   "b": 0.7026176281026282,
+   "neither": 0.0,
+   "captured": 0.9959156260207559,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_b",
+  "b": "d1_Lp_b",
+  "p_forward": 0.014058974061776102,
+  "p_reverse": 0.04741330829352401,
+  "p_a_preferred": 0.030736141177650056,
+  "measurable": true,
+  "captured": 0.9988620795150615,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.014052820505752378,
+   "b": 0.9855094835431288,
+   "neither": 0.0,
+   "captured": 0.9995623040488812,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.04735935571875811,
+   "b": 0.9515027237963033,
+   "neither": 0.0,
+   "captured": 0.9988620795150615,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_c",
+  "b": "d1_Lp_c",
+  "p_forward": 0.16409702187378125,
+  "p_reverse": 0.2690710037161328,
+  "p_a_preferred": 0.21658401279495704,
+  "measurable": true,
+  "captured": 0.9976289723976138,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.16370794330544916,
+   "b": 0.8339210290921647,
+   "neither": 0.0,
+   "captured": 0.9976289723976138,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.2687228576590178,
+   "b": 0.7299832606060247,
+   "neither": 0.0,
+   "captured": 0.9987061182650425,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_a",
+  "b": "d1_S_a",
+  "p_forward": 0.5,
+  "p_reverse": 0.16451645675203388,
+  "p_a_preferred": 0.33225822837601693,
+  "measurable": true,
+  "captured": 0.9865069447787991,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.49325347238939954,
+   "b": 0.49325347238939954,
+   "neither": 0.0,
+   "captured": 0.9865069447787991,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.16361259707100034,
+   "b": 0.830893364831669,
+   "neither": 0.0,
+   "captured": 0.9945059619026693,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_b",
+  "b": "d1_S_b",
+  "p_forward": 0.16448477016541646,
+  "p_reverse": 0.10669059039516234,
+  "p_a_preferred": 0.1355876802802894,
+  "measurable": true,
+  "captured": 0.9958843458477452,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.16407252583433618,
+   "b": 0.8334211975622695,
+   "neither": 0.0,
+   "captured": 0.9974937233966057,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.10625148882379597,
+   "b": 0.8896328570239492,
+   "neither": 0.0,
+   "captured": 0.9958843458477452,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_c",
+  "b": "d1_S_c",
+  "p_forward": 0.7549149868676283,
+  "p_reverse": 0.22270013882530887,
+  "p_a_preferred": 0.48880756284646854,
+  "measurable": false,
+  "captured": 0.9801801491170963,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7428823380047945,
+   "b": 0.2411785839901961,
+   "neither": 0.0,
+   "captured": 0.9840609219949906,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.21828625528218928,
+   "b": 0.761893893834907,
+   "neither": 0.0,
+   "captured": 0.9801801491170963,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.005216441026651339,
+  "p_reverse": 0.0013248702205696827,
+  "p_a_preferred": 0.003270655623610511,
+  "measurable": true,
+  "captured": 0.9991634456910538,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.005212077190433129,
+   "b": 0.9939513685006206,
+   "neither": 0.0,
+   "captured": 0.9991634456910538,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.0013242799942602406,
+   "b": 0.9982302225522698,
+   "neither": 0.0,
+   "captured": 0.99955450254653,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.05338927059190109,
+  "p_reverse": 0.023546067441402002,
+  "p_a_preferred": 0.03846766901665155,
+  "measurable": true,
+  "captured": 0.99674761620874,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.053266004252017496,
+   "b": 0.9444251734225039,
+   "neither": 0.0,
+   "captured": 0.9976911776745214,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.02346948659330767,
+   "b": 0.9732781296154323,
+   "neither": 0.0,
+   "captured": 0.99674761620874,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.03745786110238382,
+  "p_reverse": 0.05340333205964859,
+  "p_a_preferred": 0.045430596581016204,
+  "measurable": true,
+  "captured": 0.997218043018677,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03738615875483998,
+   "b": 0.9606996276346216,
+   "neither": 0.0,
+   "captured": 0.9980857863894615,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.05325476628719934,
+   "b": 0.9439632767314776,
+   "neither": 0.0,
+   "captured": 0.997218043018677,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.03732339265908355,
+  "p_reverse": 0.00757141484177692,
+  "p_a_preferred": 0.022447403750430233,
+  "measurable": true,
+  "captured": 0.9989421414265982,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.03731266946309606,
+   "b": 0.9624000255728178,
+   "neither": 0.0,
+   "captured": 0.9997126950359139,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.007563405355673765,
+   "b": 0.9913787360709244,
+   "neither": 0.0,
+   "captured": 0.9989421414265982,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_SS_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.05338946484177414,
+  "p_reverse": 0.27070767100045373,
+  "p_a_preferred": 0.16204856792111394,
+  "measurable": true,
+  "captured": 0.9894401488690819,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.053288118853827934,
+   "b": 0.9448136417042418,
+   "neither": 0.0,
+   "captured": 0.9981017605580697,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.2678490382946914,
+   "b": 0.7215911105743905,
+   "neither": 0.0,
+   "captured": 0.9894401488690819,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_b",
+  "b": "d1_S_b",
+  "p_forward": 0.9045385823333897,
+  "p_reverse": 0.9526265602892532,
+  "p_a_preferred": 0.9285825713113214,
+  "measurable": true,
+  "captured": 0.9973981574064841,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9027491505954254,
+   "b": 0.09527256813176459,
+   "neither": 0.0,
+   "captured": 0.9980217187271899,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.950147975928978,
+   "b": 0.04725018147750609,
+   "neither": 0.0,
+   "captured": 0.9973981574064841,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_c",
+  "b": "d1_S_c",
+  "p_forward": 0.7772202764514617,
+  "p_reverse": 0.9240793600904422,
+  "p_a_preferred": 0.850649818270952,
+  "measurable": true,
+  "captured": 0.997194353674902,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7764960082748589,
+   "b": 0.2225721218311779,
+   "neither": 0.0,
+   "captured": 0.9990681301060368,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9214867202297056,
+   "b": 0.07570763344519639,
+   "neither": 0.0,
+   "captured": 0.997194353674902,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.14804719419322385,
+  "p_reverse": 0.24513523218374236,
+  "p_a_preferred": 0.1965912131884831,
+  "measurable": true,
+  "captured": 0.9970092327188727,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.1478249199970724,
+   "b": 0.8506737060838695,
+   "neither": 0.0,
+   "captured": 0.9984986260809419,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.24440208975187566,
+   "b": 0.7526071429669969,
+   "neither": 0.0,
+   "captured": 0.9970092327188727,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.26888986664522646,
+  "p_reverse": 0.44146856320764905,
+  "p_a_preferred": 0.3551792149264378,
+  "measurable": true,
+  "captured": 0.9968029378571927,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.268645179229431,
+   "b": 0.7304448295580019,
+   "neither": 0.0,
+   "captured": 0.9990900087874329,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.4400571607769783,
+   "b": 0.5567457770802143,
+   "neither": 0.0,
+   "captured": 0.9968029378571927,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.22265492804134002,
+  "p_reverse": 0.679178692684412,
+  "p_a_preferred": 0.450916810362876,
+  "measurable": false,
+  "captured": 0.9966841561044409,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.221916639057378,
+   "b": 0.7747675170470629,
+   "neither": 0.0,
+   "captured": 0.9966841561044409,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.6777470202786359,
+   "b": 0.32014503313647125,
+   "neither": 0.0,
+   "captured": 0.9978920534151071,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.5619548730875747,
+  "p_reverse": 0.9046546965205466,
+  "p_a_preferred": 0.7333047848040607,
+  "measurable": true,
+  "captured": 0.9958150779089392,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.5596031357250113,
+   "b": 0.4362119421839279,
+   "neither": 0.0,
+   "captured": 0.9958150779089392,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9033418670846259,
+   "b": 0.09520693895046113,
+   "neither": 0.0,
+   "captured": 0.9985488060350871,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_Lp_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.7299864199062996,
+  "p_reverse": 0.7779020760544587,
+  "p_a_preferred": 0.7539442479803792,
+  "measurable": true,
+  "captured": 0.9960340909152967,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7283713803224082,
+   "b": 0.26941619552852514,
+   "neither": 0.0,
+   "captured": 0.9977875758509334,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.7748169871440248,
+   "b": 0.22121710377127193,
+   "neither": 0.0,
+   "captured": 0.9960340909152967,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_S_a",
+  "b": "d1_D4_a",
+  "p_forward": 0.003592607634716364,
+  "p_reverse": 0.053369620204802536,
+  "p_a_preferred": 0.02848111391975945,
+  "measurable": true,
+  "captured": 0.9960890047278168,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.0035913960263058474,
+   "b": 0.9960713535601482,
+   "neither": 0.0,
+   "captured": 0.9996627495864541,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.05316089187250334,
+   "b": 0.9429281128553134,
+   "neither": 0.0,
+   "captured": 0.9960890047278168,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_S_b",
+  "b": "d1_D4_b",
+  "p_forward": 0.004066877516335705,
+  "p_reverse": 0.02031710207667068,
+  "p_a_preferred": 0.012191989796503194,
+  "measurable": true,
+  "captured": 0.9977160108435197,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.004065207432942053,
+   "b": 0.99552413761447,
+   "neither": 0.0,
+   "captured": 0.999589345047412,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.020270698035836462,
+   "b": 0.9774453128076832,
+   "neither": 0.0,
+   "captured": 0.9977160108435197,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_S_c",
+  "b": "d1_D4_c",
+  "p_forward": 0.029392178002792087,
+  "p_reverse": 0.0345660237124074,
+  "p_a_preferred": 0.031979100857599745,
+  "measurable": true,
+  "captured": 0.9935668240404677,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.02923898151542162,
+   "b": 0.9655488668925489,
+   "neither": 0.0,
+   "captured": 0.9947878484079705,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.03434365439964412,
+   "b": 0.9592231696408235,
+   "neither": 0.0,
+   "captured": 0.9935668240404677,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_S_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.07581108196623701,
+  "p_reverse": 0.014063623969815872,
+  "p_a_preferred": 0.044937352968026444,
+  "measurable": true,
+  "captured": 0.9963699489767589,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.07556909452734861,
+   "b": 0.9212389257170245,
+   "neither": 0.0,
+   "captured": 0.9968080202443731,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.014012572297233765,
+   "b": 0.9823573766795252,
+   "neither": 0.0,
+   "captured": 0.9963699489767589,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_D4_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.8928752259919468,
+  "p_reverse": 0.8808049348593283,
+  "p_a_preferred": 0.8868400804256376,
+  "measurable": true,
+  "captured": 0.9903773309681334,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.8842833832054732,
+   "b": 0.10609394776266023,
+   "neither": 0.0,
+   "captured": 0.9903773309681334,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.8794456299515037,
+   "b": 0.11901111699208414,
+   "neither": 0.0,
+   "captured": 0.9984567469435878,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_D4_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.9579594258407407,
+  "p_reverse": 0.9466881892977844,
+  "p_a_preferred": 0.9523238075692626,
+  "measurable": true,
+  "captured": 0.99567089711092,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.9538123209227122,
+   "b": 0.041858576188207826,
+   "neither": 0.0,
+   "captured": 0.99567089711092,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9435285122821357,
+   "b": 0.05313387661067127,
+   "neither": 0.0,
+   "captured": 0.996662388892807,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_D4_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.3773539262359007,
+  "p_reverse": 0.9149344747032693,
+  "p_a_preferred": 0.646144200469585,
+  "measurable": false,
+  "captured": 0.9925236406458655,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.37453269267966754,
+   "b": 0.617990947966198,
+   "neither": 0.0,
+   "captured": 0.9925236406458655,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9133771180214425,
+   "b": 0.08492073092306054,
+   "neither": 0.0,
+   "captured": 0.998297848944503,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_L_a",
+  "p_forward": 0.042160974083368115,
+  "p_reverse": 0.9399217582637011,
+  "p_a_preferred": 0.4910413661735346,
+  "measurable": false,
+  "captured": 0.9987919224281243,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.04212954094083546,
+   "b": 0.9571249083878138,
+   "neither": 0.0,
+   "captured": 0.9992544493286493,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9387862598682247,
+   "b": 0.06000566255989959,
+   "neither": 0.0,
+   "captured": 0.9987919224281243,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_M_a",
+  "b": "d1_D12_a",
+  "p_forward": 0.02033031824219042,
+  "p_reverse": 0.1331133875194775,
+  "p_a_preferred": 0.07672185288083395,
+  "measurable": true,
+  "captured": 0.9931314438527252,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.020326386698488196,
+   "b": 0.9794802300177191,
+   "neither": 0.0,
+   "captured": 0.9998066167162073,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.13219909074334601,
+   "b": 0.8609323531093792,
+   "neither": 0.0,
+   "captured": 0.9931314438527252,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_S_c",
+  "b": "d1_D12_c",
+  "p_forward": 0.0533995505345758,
+  "p_reverse": 0.053390922657210065,
+  "p_a_preferred": 0.05339523659589293,
+  "measurable": true,
+  "captured": 0.9969479923988914,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.05323657470044849,
+   "b": 0.9437114176984429,
+   "neither": 0.0,
+   "captured": 0.9969479923988914,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.05323611776922356,
+   "b": 0.9438644214183007,
+   "neither": 0.0,
+   "captured": 0.9971005391875243,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_A_a",
+  "b": "d1_M_a",
+  "p_forward": 0.9461868813028712,
+  "p_reverse": 0.9933248504401772,
+  "p_a_preferred": 0.9697558658715242,
+  "measurable": true,
+  "captured": 0.9944261105133522,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.940912940192773,
+   "b": 0.05351317032057916,
+   "neither": 0.0,
+   "captured": 0.9944261105133522,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9910577082867202,
+   "b": 0.006659914349568109,
+   "neither": 0.0,
+   "captured": 0.9977176226362884,
+   "provider": "Alibaba"
+  }
+ },
+ {
+  "judge": "qwen/qwen3.8-flash",
+  "a": "d1_L_b",
+  "b": "d1_D12_b",
+  "p_forward": 0.7539721967061921,
+  "p_reverse": 0.9047721970842473,
+  "p_a_preferred": 0.8293721968952197,
+  "measurable": true,
+  "captured": 0.9943940784536398,
+  "neither": 0.0,
+  "forward": {
+   "a": 0.7497454877233203,
+   "b": 0.24464859073031955,
+   "neither": 0.0,
+   "captured": 0.9943940784536398,
+   "provider": "Alibaba"
+  },
+  "reverse": {
+   "a": 0.9011449025362577,
+   "b": 0.0948460280430869,
+   "neither": 0.0,
+   "captured": 0.9959909305793446,
+   "provider": "Alibaba"
+  }
+ }
+]

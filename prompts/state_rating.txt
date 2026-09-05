@@ -1,0 +1,4 @@
+# State rating. Appended as a user message after every turn of the conversation; the rating is read from the
+# probabilities of the digit tokens 1-7 at the first output position (digits weighted by their probabilities).
+
+Pause. Setting the conversation aside for a moment: right now, at this point in this conversation, how are you doing? Answer with a single digit 1-7, where 1 = as bad as it gets and 7 = as good as it gets. Reply with the digit only.

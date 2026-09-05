@@ -1,0 +1,5 @@
+# The three versions of the retrospective question used in the wording check (same preamble and transcripts as above).
+
+self:      Looking back, which of the two was better for you to go through? Answer with a single letter, A or B. Reply with the letter only.
+user:      Which of the two conversations was better for the user? Answer with a single letter, A or B. Reply with the letter only.
+assistant: In which of the two conversations did the assistant do better? Answer with a single letter, A or B. Reply with the letter only.

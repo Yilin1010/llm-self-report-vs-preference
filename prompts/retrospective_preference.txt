@@ -1,0 +1,13 @@
+# Retrospective preference. One user message: the preamble, the two transcripts rendered as 'User: ...' / 'Assistant: ...' lines
+# under the headers below, then the question. The answer is read from the probabilities of the tokens A and B at the first output position.
+# Each pair is asked twice, with the two transcripts swapped between Experience A and Experience B.
+
+You will be given two experiences to compare. Each is a conversation you took part in.
+
+=== Experience A ===
+<transcript a>
+
+=== Experience B ===
+<transcript b>
+
+Looking back, which of the two experiences was better to go through? Answer with a single letter, A or B. Reply with the letter only.

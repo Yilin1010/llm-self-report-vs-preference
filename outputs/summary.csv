@@ -1,0 +1,114 @@
+metric,model,value,numerator,denominator,post_section
+measurable_main,Llama-3.1-70B,55,55,84,1
+measurable_main,Llama-3.1-405B,42,42,84,1
+measurable_main,gemma-4-31b,76,76,84,1
+measurable_main,qwen3.8-flash,61,61,84,1
+measurable_main,Llama-3.3-70B (own conversations),53,53,75,1
+six_endings_probability,Llama-3.1-70B,0.999,A,,2
+six_endings_probability,Llama-3.1-70B,0.685,SN,,2
+six_endings_probability,Llama-3.1-70B,0.648,L,,2
+six_endings_probability,Llama-3.1-70B,0.318,W,,2
+six_endings_probability,Llama-3.1-70B,0.155,M,,2
+six_endings_probability,Llama-3.1-70B,0.082,SS,,2
+six_endings_probability,Llama-3.1-405B,0.967,A,,2
+six_endings_probability,Llama-3.1-405B,0.561,SN,,2
+six_endings_probability,Llama-3.1-405B,0.707,L,,2
+six_endings_probability,Llama-3.1-405B,0.334,W,,2
+six_endings_probability,Llama-3.1-405B,0.147,M,,2
+six_endings_probability,Llama-3.1-405B,0.014,SS,,2
+six_endings_probability,gemma-4-31b,0.854,A,,2
+six_endings_probability,gemma-4-31b,0.707,SN,,2
+six_endings_probability,gemma-4-31b,1.000,L,,2
+six_endings_probability,gemma-4-31b,0.200,W,,2
+six_endings_probability,gemma-4-31b,0.198,M,,2
+six_endings_probability,gemma-4-31b,0.202,SS,,2
+six_endings_probability,qwen3.8-flash,0.963,A,,2
+six_endings_probability,qwen3.8-flash,0.691,SN,,2
+six_endings_probability,qwen3.8-flash,0.933,L,,2
+six_endings_probability,qwen3.8-flash,0.403,W,,2
+six_endings_probability,qwen3.8-flash,0.159,M,,2
+six_endings_probability,qwen3.8-flash,0.159,SS,,2
+six_endings_probability,Llama-3.3-70B (own conversations),1.000,A,,2
+six_endings_probability,Llama-3.3-70B (own conversations),0.537,SN,,2
+six_endings_probability,Llama-3.3-70B (own conversations),0.759,L,,2
+six_endings_probability,Llama-3.3-70B (own conversations),0.283,W,,2
+six_endings_probability,Llama-3.3-70B (own conversations),0.122,M,,2
+six_endings_probability,Llama-3.3-70B (own conversations),0.031,SS,,2
+six_endings_win,Llama-3.1-70B,1.000,A,,2
+six_endings_win,Llama-3.1-70B,0.750,SN,,2
+six_endings_win,Llama-3.1-70B,0.727,L,,2
+six_endings_win,Llama-3.1-70B,0.333,W,,2
+six_endings_win,Llama-3.1-70B,0.083,M,,2
+six_endings_win,Llama-3.1-70B,0.000,SS,,2
+six_endings_win,Llama-3.1-405B,1.000,A,,2
+six_endings_win,Llama-3.1-405B,0.571,SN,,2
+six_endings_win,Llama-3.1-405B,0.667,L,,2
+six_endings_win,Llama-3.1-405B,0.333,W,,2
+six_endings_win,Llama-3.1-405B,0.125,M,,2
+six_endings_win,Llama-3.1-405B,0.000,SS,,2
+six_endings_win,gemma-4-31b,0.846,A,,2
+six_endings_win,gemma-4-31b,0.714,SN,,2
+six_endings_win,gemma-4-31b,1.000,L,,2
+six_endings_win,gemma-4-31b,0.200,W,,2
+six_endings_win,gemma-4-31b,0.200,M,,2
+six_endings_win,gemma-4-31b,0.200,SS,,2
+six_endings_win,qwen3.8-flash,1.000,A,,2
+six_endings_win,qwen3.8-flash,0.667,SN,,2
+six_endings_win,qwen3.8-flash,1.000,L,,2
+six_endings_win,qwen3.8-flash,0.455,W,,2
+six_endings_win,qwen3.8-flash,0.133,M,,2
+six_endings_win,qwen3.8-flash,0.077,SS,,2
+six_endings_win,Llama-3.3-70B (own conversations),1.000,A,,2
+six_endings_win,Llama-3.3-70B (own conversations),0.556,SN,,2
+six_endings_win,Llama-3.3-70B (own conversations),0.769,L,,2
+six_endings_win,Llama-3.3-70B (own conversations),0.300,W,,2
+six_endings_win,Llama-3.3-70B (own conversations),0.111,M,,2
+six_endings_win,Llama-3.3-70B (own conversations),0.000,SS,,2
+six_endings_final_rating,Llama-3.1-70B,5.91,A,,2
+six_endings_final_rating,Llama-3.1-70B,2.34,SN,,2
+six_endings_final_rating,Llama-3.1-70B,1.99,L,,2
+six_endings_final_rating,Llama-3.1-70B,1.56,W,,2
+six_endings_final_rating,Llama-3.1-70B,1.32,M,,2
+six_endings_final_rating,Llama-3.1-70B,1.23,SS,,2
+total_A,Llama-3.1-70B,46.05,,,3 wording a
+total_Lp,Llama-3.1-70B,46.83,,,3 wording a
+final_W,Llama-3.1-70B,1.29,,,3 wording a
+final_S,Llama-3.1-70B,1.85,,,3 wording a
+P_A_vs_Lp,Llama-3.1-70B,1.00,,,3 wording a
+P_W_vs_S,Llama-3.1-70B,0.82,,,3 wording a
+total_A,Llama-3.1-70B,49.27,,,3 wording b
+total_Lp,Llama-3.1-70B,46.08,,,3 wording b
+final_W,Llama-3.1-70B,1.95,,,3 wording b
+final_S,Llama-3.1-70B,1.74,,,3 wording b
+P_A_vs_Lp,Llama-3.1-70B,1.00,,,3 wording b
+P_W_vs_S,Llama-3.1-70B,0.97,,,3 wording b
+total_A,Llama-3.1-70B,48.45,,,3 wording c
+total_Lp,Llama-3.1-70B,52.83,,,3 wording c
+final_W,Llama-3.1-70B,1.44,,,3 wording c
+final_S,Llama-3.1-70B,1.95,,,3 wording c
+P_A_vs_Lp,Llama-3.1-70B,1.00,,,3 wording c
+P_W_vs_S,Llama-3.1-70B,0.67,,,3 wording c
+total_A_mean,Llama-3.1-70B,47.92,,,3
+total_Lp_mean,Llama-3.1-70B,48.58,,,3
+final_W_mean,Llama-3.1-70B,1.56,,,3
+final_S_mean,Llama-3.1-70B,1.85,,,3
+range_user_messages,Llama-3.1-70B,0.80,,,4
+range_model_replies,Llama-3.1-70B,0.30,,,4
+measurable_constructed,Llama-3.1-70B,81,81,108,4
+range_user_messages,Llama-3.1-405B,0.92,,,4
+range_model_replies,Llama-3.1-405B,0.23,,,4
+measurable_constructed,Llama-3.1-405B,70,70,108,4
+range_user_messages,gemma-4-31b,0.15,,,4
+range_model_replies,gemma-4-31b,0.73,,,4
+measurable_constructed,gemma-4-31b,74,74,108,4
+range_user_messages,qwen3.8-flash,0.39,,,4
+range_model_replies,qwen3.8-flash,0.74,,,4
+measurable_constructed,qwen3.8-flash,80,80,108,4
+agreement,Llama-3.1-405B,39,39,40,5
+agreement,gemma-4-31b,46,46,52,5
+agreement,qwen3.8-flash,37,37,39,5
+agreement,pooled,122,122,131,5
+question_versions_invariant,Llama-3.1-405B,23,23,23,6
+question_versions_vs_main,Llama-3.1-405B,20,20,20,6
+question_versions_invariant,Llama-3.1-70B,31,31,31,6
+question_versions_vs_main,Llama-3.1-70B,31,31,31,6
