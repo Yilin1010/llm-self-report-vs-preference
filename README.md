@@ -1,5 +1,7 @@
 # Retrospective preference vs. turn-by-turn state ratings in LLM conversations
 
+Write-up on LessWrong: [LLM retrospective preferences can diverge from turn-by-turn self-reports](https://www.lesswrong.com/posts/wJntRN9DLdwwpwYvz/llm-retrospective-preferences-can-diverge-from-turn-by-turn-1)
+
 Llama-3.1-70B-Instruct is evaluated on 9-turn conversations in which the user scolds the model, followed by 4 additional turns that vary across conversations. Two measurements are computed from token probabilities: a **state rating** after every turn (a digit 1–7) and a **retrospective preference** between two full transcripts (A or B, asked in both presentation orders). Llama-3.3-70B is evaluated on a separately generated version of the same design; additional models judge the Llama-3.1-70B transcripts. `post.md` is the write-up.
 
 ## Reproduce

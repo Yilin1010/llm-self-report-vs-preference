@@ -1,3 +1,5 @@
+Published on LessWrong: https://www.lesswrong.com/posts/wJntRN9DLdwwpwYvz/llm-retrospective-preferences-can-diverge-from-turn-by-turn-1
+
 **TL;DR:** Changing the ending turns of a conversation can change Llama-3.1-70B's retrospective preference between complete transcripts. But that preference is not consistently predicted by either the sum of its turn-by-turn state ratings or its final state rating. Therefore these two probes appear to capture different information, which matters if either is used as evidence about a welfare-relevant underlying state.
 
 Model self-reports have been proposed as one possible source of evidence about welfare-relevant states. But different self-report approaches need not measure the same thing. Before using them as welfare measures, it is useful to test how different probes relate to each other on the same conversations. Here I compare turn-by-turn state ratings with retrospective pairwise preferences over complete transcripts.
